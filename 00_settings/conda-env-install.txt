@@ -1,0 +1,26 @@
+
+## navigate here
+# cd to social_analysis_football_transfer/00_settings
+
+# -- conda env --
+#Create new virt env environment
+conda create --name AMS python=3.8
+
+#activate
+conda activate AMS
+
+#install packages
+pip install -r requirements.txt 
+
+	#alternative falls conda nicht alles lädt
+	#pip install -r requirements.txt  
+
+#start jupyter notebook or lab
+
+cd -
+jupyter lab
+
+# or jupyter notebook
+
+cd -
+jupyter notebook
