@@ -10,7 +10,7 @@ conda create --name AMS python=3.8
 conda activate AMS
 
 #install packages
-pip install -r requirements.txt 
+conda install --file requirements.txt -y
 
 	#alternative falls conda nicht alles lädt
 	#pip install -r requirements.txt  
