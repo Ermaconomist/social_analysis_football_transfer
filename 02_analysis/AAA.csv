@@ -1,0 +1,4029 @@
+,ID,value
+0,Palmeiras,Romance
+1,EC Bahia,Romance
+2,Benfica,Romance
+3,Vit. Guimarães,Romance
+4,Palmeiras,Romance
+5,Caxias-RS,Romance
+6,Santo André-SP,Romance
+7,Palmeiras,Romance
+8,Belenenses SAD,Romance
+9,Benfica U23,Romance
+10,Rio Ave FC,Romance
+11,Sporting U19,Romance
+12,Atlético-GO,Romance
+13,Tombense,Romance
+14,FC Porto B,Romance
+15,Benfica,Romance
+16,Benfica,Romance
+17,FC Porto,Romance
+18,Monte Azul-SP,Romance
+19,Villa Nova AC,Romance
+20,Yangon Utd.,Romance
+21,SC Braga B,Romance
+22,Monte Azul-SP,Romance
+23,Tubarão-SC,Romance
+24,Juventus U19,Romance
+25,Udinese Calcio,Romance
+26,AS Rom,Romance
+27,Inter Mailand,Romance
+28,Inter Mailand,Romance
+29,Delfino Pescara,Romance
+30,Inter U19,Romance
+31,FC Chiasso,Romance
+32,FC Lugano,Romance
+33,FC Lugano,Romance
+34,FC Lugano,Romance
+35,FC Empoli,Romance
+36,Novara Calcio,Romance
+37,Lazio Rom,Romance
+38,AC Bellinzona,Romance
+39,Udinese Calcio,Romance
+40,Udinese Calcio,Romance
+41,FC Lugano,Romance
+42,FC Lugano,Romance
+43,FC Lugano,Romance
+44,AC Bellinzona,Romance
+45,AC Bellinzona,Romance
+46,Juventus U23,Romance
+47,Chievo Verona,Romance
+48,SSC Bari,Romance
+49,SSC Bari,Romance
+50,Juventus U19,Romance
+51,FC Chiasso,Romance
+52,FC Chiasso,Romance
+53,AC Bellinzona,Romance
+54,AC Bellinzona,Romance
+55,FC Locarno,Romance
+56,FC Locarno,Romance
+57,FC Locarno,Romance
+58,US Palermo,Romance
+59,FC Chiasso,Romance
+60,FC Lugano,Romance
+61,FC Lugano,Romance
+62,AC Bellinzona,Romance
+63,AC Bellinzona,Romance
+64,AC Bellinzona,Romance
+65,AC Bellinzona,Romance
+66,Udinese Calcio,Romance
+67,FC Chiasso,Romance
+68,FC Lugano,Romance
+69,AC Bellinzona,Romance
+70,AC Bellinzona,Romance
+71,AC Bellinzona,Romance
+72,FC Turin,Romance
+73,Udinese Calcio,Romance
+74,Inter Mailand,Romance
+75,FC Lugano,Romance
+76,FC Lugano,Romance
+77,FC Lugano,Romance
+78,Novara Calcio,Romance
+79,AC Bellinzona,Romance
+80,FC Bologna,Romance
+81,Udinese Calcio,Romance
+82,FC Chiasso,Romance
+83,FC Chiasso,Romance
+84,FC Lugano,Romance
+85,FC Lugano,Romance
+86,FC Lugano,Romance
+87,FC Lugano,Romance
+88,FC Lugano,Romance
+89,FC Lugano,Romance
+90,AC Bellinzona,Romance
+91,FC Locarno,Romance
+92,FC Locarno,Romance
+93,Juventus Turin,Romance
+94,Juventus Turin,Romance
+95,Genua CFC,Romance
+96,FC Lugano,Romance
+97,FC Lugano,Romance
+98,FC Lugano,Romance
+99,AC Bellinzona,Romance
+100,AC Bellinzona,Romance
+101,AC Bellinzona,Romance
+102,FC Lugano,Romance
+103,FC Lugano,Romance
+104,FC Lugano,Romance
+105,AC Bellinzona,Romance
+106,AC Bellinzona,Romance
+107,FC Lugano,Romance
+108,FC Lugano,Romance
+109,FC Lugano,Romance
+110,FC Lugano,Romance
+111,FC Lugano,Romance
+112,FC Lugano,Romance
+113,FC Lugano,Romance
+114,AC Bellinzona,Romance
+115,AC Bellinzona,Romance
+116,FC Lugano,Romance
+117,FC Lugano,Romance
+118,FC Lugano,Romance
+119,FC Lugano,Romance
+120,FC Lugano,Romance
+121,FC Lugano,Romance
+122,FC Lugano,Romance
+123,AC Bellinzona,Romance
+124,FC Lugano,Romance
+125,FC Lugano,Romance
+126,FC Lugano,Romance
+127,FC Lugano,Romance
+128,AC Bellinzona,Romance
+129,FC Lugano,Romance
+130,FC Lugano,Romance
+131,AC Bellinzona,Romance
+132,AC Bellinzona,Romance
+133,AC Bellinzona,Romance
+134,KRC Genk ,Romance
+135,KRC Genk ,Romance
+136,FC Sion,Romance
+137,FC Sion,Romance
+138,AS Monaco,Romance
+139,Xamax,Romance
+140,Olympique Lyon,Romance
+141,Lausanne-Sport,Romance
+142,Lausanne-Sport,Romance
+143,AS St.-Étienne,Romance
+144,Servette FC,Romance
+145,RSC Anderlecht,Romance
+146,FC Lausanne-Sport,Romance
+147,FC Lausanne-Sport,Romance
+148,FC Sion,Romance
+149,FC Sion,Romance
+150,FC Sion,Romance
+151,FC Sion,Romance
+152,Lausanne-Sport,Romance
+153,Servette FC,Romance
+154,Servette FC,Romance
+155,AS Tanda,Romance
+156,Ol. Marseille,Romance
+157,Servette U18,Romance
+158,AS Nancy U19,Romance
+159,AS Dakar Sacré Coeur,Romance
+160,AS Pikine,Romance
+161,FC Lausanne-Sport,Romance
+162,FC Sion,Romance
+163,FC Sion,Romance
+164,FC Sion,Romance
+165,Xamax,Romance
+166,Xamax,Romance
+167,Lausanne-Sport,Romance
+168,Lausanne-Sport,Romance
+169,Lausanne-Sport,Romance
+170,Servette FC,Romance
+171,Servette FC,Romance
+172,TP Mazembe,Romance
+173,AJ Auxerre,Romance
+174,Etoile Carouge,Romance
+175,FC Valenciennes,Romance
+176,KAS Eupen,Romance
+177,RC Lens,Romance
+178,FC Sion,Romance
+179,FC Sion,Romance
+180,Xamax,Romance
+181,Lausanne-Sport,Romance
+182,Yverdon-Sport,Romance
+183,Stade Nyonnais,Romance
+184,FC Lausanne-Sport,Romance
+185,Neuweg,Romance
+186,FC Sion,Romance
+187,Xamax,Romance
+188,Xamax,Romance
+189,Xamax,Romance
+190,Olympique Lyon,Romance
+191,Lausanne-Sport,Romance
+192,Servette FC,Romance
+193,Servette FC,Romance
+194,Servette FC,Romance
+195,Amiens SC,Romance
+196,Amiens SC,Romance
+197,Stade Rennes,Romance
+198,TP Mazembe,Romance
+199,TP Mazembe,Romance
+200,TP Mazembe,Romance
+201,SCO Angers,Romance
+202,LOSC Lille,Romance
+203,G. Bordeaux,Romance
+204,AC Ajaccio,Romance
+205,FC Lausanne-Sport,Romance
+206,FC Sion,Romance
+207,FC Sion,Romance
+208,FC Sion,Romance
+209,Xamax,Romance
+210,Xamax,Romance
+211,Lausanne-Sport,Romance
+212,Lausanne-Sport,Romance
+213,Servette FC,Romance
+214,ES Sahel,Romance
+215,Yverdon-Sport,Romance
+216,FC Lausanne-Sport,Romance
+217,FC Lausanne-Sport,Romance
+218,FC Sion,Romance
+219,Xamax,Romance
+220,Xamax,Romance
+221,Lausanne-Sport,Romance
+222,Lausanne-Sport,Romance
+223,Lausanne-Sport,Romance
+224,Servette FC,Romance
+225,LOSC Lille,Romance
+226,FC Sochaux,Romance
+227,FC Sochaux,Romance
+228,Le Mont LS,Romance
+229,Le Mont LS,Romance
+230,Le Mont LS,Romance
+231,AJ Auxerre,Romance
+232,Zulte Waregem,Romance
+233,AJ Auxerre B,Romance
+234,FC Fribourg,Romance
+235,ASEC Mimosas,Romance
+236,FC Lausanne-Sport,Romance
+237,FC Lausanne-Sport,Romance
+238,FC Lausanne-Sport,Romance
+239,FC Sion,Romance
+240,FC Sion,Romance
+241,FC Sion,Romance
+242,AS Monaco,Romance
+243,Xamax,Romance
+244,Lausanne-Sport,Romance
+245,Lausanne-Sport,Romance
+246,Lausanne-Sport,Romance
+247,Lausanne-Sport,Romance
+248,Servette FC,Romance
+249,Servette FC,Romance
+250,Servette FC,Romance
+251,FC Sochaux,Romance
+252,FC Nantes,Romance
+253,Club Africain,Romance
+254,ASEC Mimosas,Romance
+255,Paris FC,Romance
+256,FC Lausanne-Sport,Romance
+257,FC Lausanne-Sport,Romance
+258,FC Lausanne-Sport,Romance
+259,FC Lausanne-Sport,Romance
+260,FC Sion,Romance
+261,FC Sion,Romance
+262,FC Sion,Romance
+263,FC Sion,Romance
+264,FC Sion,Romance
+265,FC Sion,Romance
+266,Xamax,Romance
+267,Servette FC,Romance
+268,FC Sion U21,Romance
+269,FC Sion U21,Romance
+270,Yverdon-Sport,Romance
+271,FC Valenciennes,Romance
+272,RC Lens,Romance
+273,UR La Louvière,Romance
+274,Montpellier,Romance
+275,FC Sion,Romance
+276,FC Sion,Romance
+277,FC Sion,Romance
+278,Xamax,Romance
+279,Xamax,Romance
+280,Servette FC,Romance
+281,Servette FC,Romance
+282,FC Lausanne-Sport,Romance
+283,FC Lausanne-Sport,Romance
+284,FC Lausanne-Sport,Romance
+285,FC Sion,Romance
+286,Xamax,Romance
+287,Servette FC,Romance
+288,FC Lausanne-Sport,Romance
+289,FC Sion,Romance
+290,FC Lausanne-Sport,Romance
+291,FC Sion,Romance
+292,FC Lausanne-Sport,Romance
+293,FC Sion,Romance
+294,FC Sion,Romance
+295,Xamax,Romance
+296,Xamax,Romance
+297,Servette FC,Romance
+298,Servette FC,Romance
+299,Servette FC,Romance
+300,Servette FC,Romance
+301,FC Lausanne-Sport,Romance
+302,FC Lausanne-Sport,Romance
+303,FC Lausanne-Sport,Romance
+304,FC Sion,Romance
+305,FC Sion,Romance
+306,Xamax,Romance
+307,Servette FC,Romance
+308,FC Lausanne-Sport,Romance
+309,FC Lausanne-Sport,Romance
+310,FC Lausanne-Sport,Romance
+311,FC Lausanne-Sport,Romance
+312,FC Sion,Romance
+313,FC Sion,Romance
+314,FC Sion,Romance
+315,Xamax,Romance
+316,Xamax,Romance
+317,Xamax,Romance
+318,Servette FC,Romance
+319,FC Lausanne-Sport,Romance
+320,FC Sion,Romance
+321,FC Sion,Romance
+322,FC Sion,Romance
+323,Servette FC,Romance
+324,FC Lausanne-Sport,Romance
+325,FC Sion,Romance
+326,Xamax,Romance
+327,Xamax,Romance
+328,Servette FC,Romance
+329,Xamax,Romance
+330,Xamax,Romance
+331,Xamax,Romance
+332,Xamax,Romance
+333,Xamax,Romance
+334,Xamax,Romance
+335,Xamax,Romance
+336,Xamax,Romance
+337,FC Lausanne-Sport,Romance
+338,Servette FC,Romance
+339,Servette FC,Romance
+340,Servette FC,Romance
+341,Servette FC,Romance
+342,FC Lausanne-Sport,Romance
+343,FC Lausanne-Sport,Romance
+344,FC Lausanne-Sport,Romance
+345,Huracán,Romance
+346,River Plate,Romance
+347,Olimpia,Romance
+348,U. de Chile,Romance
+349,Boca Juniors,Romance
+350,CA Unión,Romance
+351,UD Logroñés,Romance
+352,Metropolitano,Romance
+353,RCD Mallorca,Romance
+354,RCD Mallorca,Romance
+355,Caracas FC,Romance
+356,Caracas FC,Romance
+357,FC Valencia,Romance
+358,Gimnàstic,Romance
+359,Rimyongsu SC,Romance
+360,FC Granada,Romance
+361,Independiente,Romance
+362,FC Sevilla,Romance
+363,FC Málaga,Romance
+364,Dep. Alavés,Romance
+365,Formentera,Romance
+366,Puerto Rico FC,Romance
+367,CF Pachuca,Romance
+368,Argentinos II,Romance
+369,FC Getafe B,Romance
+370,FC Granada,Romance
+371,Sheriff,Romance
+372,FC Wil 1900,Germanic
+373,FC Wil 1900,Germanic
+374,FC Wil 1900,Germanic
+375,FC Wil 1900,Germanic
+376,Wehen Wiesbaden,Germanic
+377,FC Basel U18,Germanic
+378,FC Basel U18,Germanic
+379,FC Basel U18,Germanic
+380,FC Basel U18,Germanic
+381,FC Basel U18,Germanic
+382,FC Basel U21,Germanic
+383,FC Basel U21,Germanic
+384,FC Basel U21,Germanic
+385,FC Basel U21,Germanic
+386,FC Basel U21,Germanic
+387,FC Basel U21,Germanic
+388,FC Basel U21,Germanic
+389,FC Basel U21,Germanic
+390,FC Basel U21,Germanic
+391,FC Basel U21,Germanic
+392,FC Basel U21,Germanic
+393,FC Basel U21,Germanic
+394,FC Basel U21,Germanic
+395,FC Basel U21,Germanic
+396,FC Basel U21,Germanic
+397,FC Basel U21,Germanic
+398,FC Basel U21,Germanic
+399,FC Basel U21,Germanic
+400,FC Basel U21,Germanic
+401,FC Basel U21,Germanic
+402,FC Basel U21,Germanic
+403,FC Basel U21,Germanic
+404,FC Basel U21,Germanic
+405,FC Basel U21,Germanic
+406,FC Basel U21,Germanic
+407,FC Basel U21,Germanic
+408,FC Basel U21,Germanic
+409,FC Basel U21,Germanic
+410,RB Salzburg,Germanic
+411,RB Salzburg,Germanic
+412,RB Salzburg,Germanic
+413,FC Aarau,Germanic
+414,FC Aarau,Germanic
+415,FC Aarau,Germanic
+416,FC Luzern,Germanic
+417,FC Luzern,Germanic
+418,GC Zürich U18,Germanic
+419,FC Ingolstadt,Germanic
+420,SC YF Juventus,Germanic
+421,FC Thun,Germanic
+422,FC Thun,Germanic
+423,FC Thun,Germanic
+424,Rapperswil-Jona,Germanic
+425,1.FSV Mainz 05,Germanic
+426,FC St. Gallen,Germanic
+427,FC St. Gallen,Germanic
+428,Hertha BSC,Germanic
+429,Arm. Bielefeld,Germanic
+430,FC Schaffhausen,Germanic
+431,FC Zürich,Germanic
+432,VfB Stuttgart,Germanic
+433,BSC Young Boys,Germanic
+434,BSC Young Boys,Germanic
+435,BSC Young Boys,Germanic
+436,FC Winterthur,Germanic
+437,Grasshoppers,Germanic
+438,Grasshoppers,Germanic
+439,Grasshoppers,Germanic
+440,Grasshoppers,Germanic
+441,FC Vaduz,Germanic
+442,FC Vaduz,Germanic
+443,VfL Wolfsburg,Germanic
+444,MSV Duisburg,Germanic
+445,Grasshopper Club Zürich,Germanic
+446,Grasshopper Club Zürich,Germanic
+447,Grasshopper Club Zürich,Germanic
+448,Grasshopper Club Zürich,Germanic
+449,FC Wil 1900,Germanic
+450,FC Wil 1900,Germanic
+451,FC Wil 1900,Germanic
+452,FC Wil 1900,Germanic
+453,FC Wil 1900,Germanic
+454,FC Wil 1900,Germanic
+455,FC Wil 1900,Germanic
+456,FC Aarau,Germanic
+457,FC Aarau,Germanic
+458,FC Luzern,Germanic
+459,FC Luzern,Germanic
+460,FC Thun,Germanic
+461,FC Thun,Germanic
+462,FC St. Gallen,Germanic
+463,FC St. Gallen,Germanic
+464,FC Schaffhausen,Germanic
+465,BSC Young Boys,Germanic
+466,BSC Young Boys,Germanic
+467,BSC Young Boys,Germanic
+468,FC Winterthur,Germanic
+469,FC Winterthur,Germanic
+470,FC Winterthur,Germanic
+471,FC Winterthur,Germanic
+472,1.FC Köln,Germanic
+473,FC Zürich U21,Germanic
+474,FC Zürich U21,Germanic
+475,FC Zürich U21,Germanic
+476,FC Zürich U21,Germanic
+477,FC Zürich U21,Germanic
+478,FC Zürich U21,Germanic
+479,FC Zürich U21,Germanic
+480,FC Zürich U21,Germanic
+481,FC Zürich U21,Germanic
+482,FC Zürich U21,Germanic
+483,FC Zürich U21,Germanic
+484,FC Zürich U21,Germanic
+485,FC Zürich U21,Germanic
+486,FC Zürich U21,Germanic
+487,FC Zürich U21,Germanic
+488,FC Zürich U21,Germanic
+489,FC Zürich U21,Germanic
+490,FC Zürich U21,Germanic
+491,FC Zürich U21,Germanic
+492,FC Zürich U21,Germanic
+493,FC Zürich U21,Germanic
+494,FC Zürich U21,Germanic
+495,FC Zürich U21,Germanic
+496,FC Zürich U21,Germanic
+497,FC Zürich U21,Germanic
+498,FC Zürich U21,Germanic
+499,FC Zürich U21,Germanic
+500,FC Zürich U21,Germanic
+501,FC Zürich U21,Germanic
+502,FC Zürich U21,Germanic
+503,FC Zürich U21,Germanic
+504,FC Zürich U21,Germanic
+505,FC Zürich U21,Germanic
+506,FC Zürich U21,Germanic
+507,FC Zürich U21,Germanic
+508,FC Zürich U21,Germanic
+509,Hamburger SV,Germanic
+510,Wolfsburg II,Germanic
+511,FC Augsburg,Germanic
+512,FC Zürich U18,Germanic
+513,FC Zürich U18,Germanic
+514,FC Zürich U18,Germanic
+515,FC Zürich U18,Germanic
+516,FC Zürich U18,Germanic
+517,FC Zürich U18,Germanic
+518,FC Zürich U18,Germanic
+519,SC Kriens,Germanic
+520,E. Braunschweig,Germanic
+521,BSC YB U21,Germanic
+522,FC Wohlen,Germanic
+523,FC Wohlen,Germanic
+524,A. Lustenau,Germanic
+525,FC Biel-Bienne,Germanic
+526,FC Schalke 04,Germanic
+527,FC Grenchen,Germanic
+528,FC Wil 1900,Germanic
+529,FC Wil 1900,Germanic
+530,FC Wil 1900,Germanic
+531,FC Wil 1900,Germanic
+532,FC Basel U21,Germanic
+533,FC Basel U21,Germanic
+534,FC Basel,Germanic
+535,FC Basel,Germanic
+536,FC Basel,Germanic
+537,FC Basel,Germanic
+538,RB Salzburg,Germanic
+539,RB Salzburg,Germanic
+540,RB Salzburg,Germanic
+541,FC Aarau,Germanic
+542,FC Aarau,Germanic
+543,FC Aarau,Germanic
+544,FC Aarau,Germanic
+545,FC Aarau,Germanic
+546,FC Luzern,Germanic
+547,FC Luzern,Germanic
+548,GC Zürich U18,Germanic
+549,GC Zürich U18,Germanic
+550,GC Zürich U18,Germanic
+551,FC Thun,Germanic
+552,FC Thun,Germanic
+553,Rapperswil-Jona,Germanic
+554,1.FSV Mainz 05,Germanic
+555,FC St. Gallen,Germanic
+556,FC St. Gallen,Germanic
+557,FC St. Gallen,Germanic
+558,FC St. Gallen,Germanic
+559,FC Schaffhausen,Germanic
+560,FC Schaffhausen,Germanic
+561,FC Schaffhausen,Germanic
+562,FC Schaffhausen,Germanic
+563,FC Schaffhausen,Germanic
+564,BSC Young Boys,Germanic
+565,BSC Young Boys,Germanic
+566,BSC Young Boys,Germanic
+567,BSC Young Boys,Germanic
+568,FC Winterthur,Germanic
+569,FC Winterthur,Germanic
+570,FC Vaduz,Germanic
+571,FC Vaduz,Germanic
+572,FC Vaduz,Germanic
+573,VfL Wolfsburg,Germanic
+574,VfL Wolfsburg,Germanic
+575,Hamburger SV,Germanic
+576,FC Augsburg,Germanic
+577,SC Kriens,Germanic
+578,E. Braunschweig,Germanic
+579,E. Braunschweig,Germanic
+580,FC Wohlen,Germanic
+581,FC Wohlen,Germanic
+582,FC Wohlen,Germanic
+583,SC Freiburg,Germanic
+584,Austria Wien,Germanic
+585,GC Zürich U21,Germanic
+586,GC Zürich U21,Germanic
+587,GC Zürich U21,Germanic
+588,GC Zürich U21,Germanic
+589,GC Zürich U21,Germanic
+590,GC Zürich U21,Germanic
+591,GC Zürich U21,Germanic
+592,GC Zürich U21,Germanic
+593,GC Zürich U21,Germanic
+594,GC Zürich U21,Germanic
+595,GC Zürich U21,Germanic
+596,GC Zürich U21,Germanic
+597,GC Zürich U21,Germanic
+598,GC Zürich U21,Germanic
+599,GC Zürich U21,Germanic
+600,GC Zürich U21,Germanic
+601,GC Zürich U21,Germanic
+602,GC Zürich U21,Germanic
+603,GC Zürich U21,Germanic
+604,GC Zürich U21,Germanic
+605,GC Zürich U21,Germanic
+606,GC Zürich U21,Germanic
+607,GC Zürich U21,Germanic
+608,GC Zürich U21,Germanic
+609,GC Zürich U21,Germanic
+610,GC Zürich U21,Germanic
+611,GC Zürich U21,Germanic
+612,GC Zürich U21,Germanic
+613,GC Zürich U21,Germanic
+614,GC Zürich U21,Germanic
+615,GC Zürich U21,Germanic
+616,GC Zürich U21,Germanic
+617,GC Zürich U21,Germanic
+618,E. Frankfurt,Germanic
+619,FC Wil 1900,Germanic
+620,FC Wil 1900,Germanic
+621,FC Wil 1900,Germanic
+622,FC Basel U21,Germanic
+623,FC Basel U21,Germanic
+624,FC Basel U21,Germanic
+625,FC Basel U21,Germanic
+626,FC Basel,Germanic
+627,FC Basel,Germanic
+628,FC Basel,Germanic
+629,FC Basel,Germanic
+630,FC Basel,Germanic
+631,FC Aarau,Germanic
+632,FC Luzern,Germanic
+633,FC Luzern,Germanic
+634,FC Luzern,Germanic
+635,FC Luzern,Germanic
+636,FC Luzern,Germanic
+637,FC Luzern,Germanic
+638,FC Thun,Germanic
+639,FC Thun,Germanic
+640,FC Thun,Germanic
+641,Rapperswil-Jona,Germanic
+642,Rapperswil-Jona,Germanic
+643,Rapperswil-Jona,Germanic
+644,FC St. Gallen,Germanic
+645,FC St. Gallen,Germanic
+646,FC St. Gallen,Germanic
+647,FC St. Gallen,Germanic
+648,FC St. Gallen,Germanic
+649,FC St. Gallen,Germanic
+650,FC St. Gallen,Germanic
+651,FC Zürich,Germanic
+652,FC Zürich,Germanic
+653,BSC Young Boys,Germanic
+654,BSC Young Boys,Germanic
+655,BSC Young Boys,Germanic
+656,BSC Young Boys,Germanic
+657,BSC Young Boys,Germanic
+658,BSC Young Boys,Germanic
+659,FC Winterthur,Germanic
+660,FC Winterthur,Germanic
+661,FC Winterthur,Germanic
+662,Grasshoppers,Germanic
+663,Grasshoppers,Germanic
+664,Grasshoppers,Germanic
+665,FC Zürich U21,Germanic
+666,FC Zürich U21,Germanic
+667,FC Zürich U21,Germanic
+668,FC Zürich U21,Germanic
+669,Hamburger SV,Germanic
+670,Wolfsburg II,Germanic
+671,BSC YB U21,Germanic
+672,FC Wohlen,Germanic
+673,FC Wohlen,Germanic
+674,FC Wohlen,Germanic
+675,A. Lustenau,Germanic
+676,A. Lustenau,Germanic
+677,A. Lustenau,Germanic
+678,FC Biel-Bienne,Germanic
+679,FC Köniz,Germanic
+680,SC Freiburg,Germanic
+681,SCR Altach,Germanic
+682,Sturm Graz,Germanic
+683,St. Gallen U21,Germanic
+684,St. Gallen U21,Germanic
+685,SC Freiburg II,Germanic
+686,FC Münsingen,Germanic
+687,Grasshopper Club Zürich,Germanic
+688,Grasshopper Club Zürich,Germanic
+689,Grasshopper Club Zürich,Germanic
+690,GC Zürich U21,Germanic
+691,GC Zürich U21,Germanic
+692,Wolfsberger AC,Germanic
+693,SV Ried,Germanic
+694,WSG Tirol,Germanic
+695,FC Balzers,Germanic
+696,FC Balzers,Germanic
+697,FC Balzers,Germanic
+698,FC Balzers,Germanic
+699,FC Balzers,Germanic
+700,FC Balzers,Germanic
+701,Vaduz II,Germanic
+702,Vaduz II,Germanic
+703,Vaduz II,Germanic
+704,Vaduz II,Germanic
+705,Vaduz II,Germanic
+706,FC Thalwil,Germanic
+707,FC Vaduz U18,Germanic
+708,FC Vaduz U18,Germanic
+709,FC Vaduz U18,Germanic
+710,FC Vaduz U18,Germanic
+711,Sonnenhof-Gr.,Germanic
+712,B. München II,Germanic
+713,FC Tuggen,Germanic
+714,Eschen-Mauren,Germanic
+715,Eschen-Mauren,Germanic
+716,Austria Wien II,Germanic
+717,FC Wil 1900,Germanic
+718,RB Salzburg,Germanic
+719,FC Aarau,Germanic
+720,FC Luzern,Germanic
+721,FC Luzern,Germanic
+722,FC Thun,Germanic
+723,FC Thun,Germanic
+724,FC Thun,Germanic
+725,FC Thun,Germanic
+726,FC Thun,Germanic
+727,FC Thun,Germanic
+728,FC Thun,Germanic
+729,FC Thun,Germanic
+730,FC St. Gallen,Germanic
+731,Hertha BSC,Germanic
+732,FC Schaffhausen,Germanic
+733,FC Zürich,Germanic
+734,FC Winterthur,Germanic
+735,Grasshoppers,Germanic
+736,Grasshoppers,Germanic
+737,Grasshoppers,Germanic
+738,FC Vaduz,Germanic
+739,VfL Wolfsburg,Germanic
+740,1.FC Köln,Germanic
+741,BSC YB U21,Germanic
+742,BSC YB U21,Germanic
+743,BSC YB U21,Germanic
+744,BSC YB U21,Germanic
+745,BSC YB U21,Germanic
+746,BSC YB U21,Germanic
+747,BSC YB U21,Germanic
+748,BSC YB U21,Germanic
+749,BSC YB U21,Germanic
+750,BSC YB U21,Germanic
+751,BSC YB U21,Germanic
+752,BSC YB U21,Germanic
+753,BSC YB U21,Germanic
+754,BSC YB U21,Germanic
+755,BSC YB U21,Germanic
+756,BSC YB U21,Germanic
+757,BSC YB U21,Germanic
+758,BSC YB U21,Germanic
+759,BSC YB U21,Germanic
+760,BSC YB U21,Germanic
+761,BSC YB U21,Germanic
+762,BSC YB U21,Germanic
+763,BSC YB U21,Germanic
+764,BSC YB U21,Germanic
+765,FC Biel-Bienne,Germanic
+766,FC Biel-Bienne,Germanic
+767,FC Köniz,Germanic
+768,SC Freiburg,Germanic
+769,SC Freiburg,Germanic
+770,Werder Bremen,Germanic
+771,Werder Bremen,Germanic
+772,SCR Altach,Germanic
+773,Bor. M'gladbach,Germanic
+774,Bor. M'gladbach,Germanic
+775,Sturm Graz,Germanic
+776,Hannover 96,Germanic
+777,BSC YB U18,Germanic
+778,Grasshopper Club Zürich,Germanic
+779,Grasshopper Club Zürich,Germanic
+780,Grasshopper Club Zürich,Germanic
+781,FC Wil 1900,Germanic
+782,FC Wil 1900,Germanic
+783,FC Wil 1900,Germanic
+784,FC Wil 1900,Germanic
+785,FC Basel U21,Germanic
+786,FC Basel,Germanic
+787,FC Basel,Germanic
+788,FC Luzern,Germanic
+789,Rapperswil-Jona,Germanic
+790,Rapperswil-Jona,Germanic
+791,Rapperswil-Jona,Germanic
+792,FC St. Gallen,Germanic
+793,FC St. Gallen,Germanic
+794,FC Schaffhausen,Germanic
+795,FC Schaffhausen,Germanic
+796,FC Schaffhausen,Germanic
+797,FC Schaffhausen,Germanic
+798,FC Zürich,Germanic
+799,VfB Stuttgart,Germanic
+800,BSC Young Boys,Germanic
+801,BSC Young Boys,Germanic
+802,BSC Young Boys,Germanic
+803,BSC Young Boys,Germanic
+804,BSC Young Boys,Germanic
+805,BSC Young Boys,Germanic
+806,BSC Young Boys,Germanic
+807,BSC Young Boys,Germanic
+808,BSC Young Boys,Germanic
+809,BSC Young Boys,Germanic
+810,FC Winterthur,Germanic
+811,FC Winterthur,Germanic
+812,FC Winterthur,Germanic
+813,FC Winterthur,Germanic
+814,FC Winterthur,Germanic
+815,FC Winterthur,Germanic
+816,Grasshoppers,Germanic
+817,FC Vaduz,Germanic
+818,FC Vaduz,Germanic
+819,FC Zürich U21,Germanic
+820,SC Kriens,Germanic
+821,SC Kriens,Germanic
+822,SC Kriens,Germanic
+823,SC Kriens,Germanic
+824,SC Kriens,Germanic
+825,BSC YB U21,Germanic
+826,FC Wohlen,Germanic
+827,FC Wohlen,Germanic
+828,FC Wohlen,Germanic
+829,FC Biel-Bienne,Germanic
+830,FC Biel-Bienne,Germanic
+831,FC Biel-Bienne,Germanic
+832,FC Biel-Bienne,Germanic
+833,Hannover 96,Germanic
+834,SC Freiburg II,Germanic
+835,Thun U21,Germanic
+836,Thun U21,Germanic
+837,Thun U21,Germanic
+838,Thun U21,Germanic
+839,Thun U21,Germanic
+840,Thun U21,Germanic
+841,Thun U21,Germanic
+842,Thun U21,Germanic
+843,Thun U21,Germanic
+844,Thun U21,Germanic
+845,Thun U21,Germanic
+846,Thun U21,Germanic
+847,Thun U21,Germanic
+848,Thun U21,Germanic
+849,Thun U21,Germanic
+850,Thun U21,Germanic
+851,Thun U21,Germanic
+852,Thun U21,Germanic
+853,Thun U21,Germanic
+854,Thun U21,Germanic
+855,Thun U21,Germanic
+856,FC Breitenrain,Germanic
+857,TSG Hoffenheim,Germanic
+858,FC Solothurn,Germanic
+859,FC Münsingen,Germanic
+860,Grasshopper Club Zürich,Germanic
+861,FC Wil 1900,Germanic
+862,FC Wil 1900,Germanic
+863,FC Wil 1900,Germanic
+864,FC Basel,Germanic
+865,FC Basel,Germanic
+866,FC Basel,Germanic
+867,RB Salzburg,Germanic
+868,FC Aarau,Germanic
+869,FC Thun,Germanic
+870,FC Thun,Germanic
+871,FC Thun,Germanic
+872,FC Thun,Germanic
+873,FC St. Gallen,Germanic
+874,FC St. Gallen,Germanic
+875,FC Schaffhausen,Germanic
+876,FC Schaffhausen,Germanic
+877,FC Zürich,Germanic
+878,FC Zürich,Germanic
+879,BSC Young Boys,Germanic
+880,BSC Young Boys,Germanic
+881,FC Winterthur,Germanic
+882,Grasshoppers,Germanic
+883,FC Vaduz,Germanic
+884,FC Vaduz,Germanic
+885,FC Vaduz,Germanic
+886,FC Vaduz,Germanic
+887,VfL Wolfsburg,Germanic
+888,VfL Wolfsburg,Germanic
+889,1.FC Köln,Germanic
+890,FC Zürich U21,Germanic
+891,Hamburger SV,Germanic
+892,SC Kriens,Germanic
+893,SC Kriens,Germanic
+894,SC Kriens,Germanic
+895,FC Wohlen,Germanic
+896,FC Biel-Bienne,Germanic
+897,Bor. M'gladbach,Germanic
+898,Bor. M'gladbach,Germanic
+899,Bor. M'gladbach,Germanic
+900,Luzern U21,Germanic
+901,Luzern U21,Germanic
+902,Luzern U21,Germanic
+903,Luzern U21,Germanic
+904,Luzern U21,Germanic
+905,Luzern U21,Germanic
+906,Luzern U21,Germanic
+907,Luzern U21,Germanic
+908,Luzern U21,Germanic
+909,Luzern U21,Germanic
+910,Luzern U21,Germanic
+911,Luzern U21,Germanic
+912,Luzern U21,Germanic
+913,Luzern U21,Germanic
+914,Luzern U21,Germanic
+915,Luzern U21,Germanic
+916,Luzern U21,Germanic
+917,Luzern U21,Germanic
+918,Luzern U21,Germanic
+919,Luzern U21,Germanic
+920,Luzern U21,Germanic
+921,Luzern U21,Germanic
+922,Luzern U21,Germanic
+923,Luzern U21,Germanic
+924,Luzern U21,Germanic
+925,Luzern U21,Germanic
+926,Luzern U21,Germanic
+927,Luzern U21,Germanic
+928,Luzern U21,Germanic
+929,Luzern U18,Germanic
+930,RB Leipzig,Germanic
+931,RB Leipzig,Germanic
+932,FC St. Pauli,Germanic
+933,Austria Wien,Germanic
+934,B. Dortmund U19,Germanic
+935,Bor. Dortmund,Germanic
+936,Grasshopper Club Zürich,Germanic
+937,FC Wil 1900,Germanic
+938,FC Wil 1900,Germanic
+939,FC Wil 1900,Germanic
+940,FC Wil 1900,Germanic
+941,FC Wil 1900,Germanic
+942,FC Wil 1900,Germanic
+943,Wehen Wiesbaden,Germanic
+944,FC Basel,Germanic
+945,FC Basel,Germanic
+946,FC Basel,Germanic
+947,FC Basel,Germanic
+948,RB Salzburg,Germanic
+949,FC Luzern,Germanic
+950,FC Thun,Germanic
+951,FC Thun,Germanic
+952,FC Thun,Germanic
+953,FC Thun,Germanic
+954,FC Thun,Germanic
+955,Rapperswil-Jona,Germanic
+956,Hertha BSC,Germanic
+957,FC Schaffhausen,Germanic
+958,FC Schaffhausen,Germanic
+959,FC Schaffhausen,Germanic
+960,FC Schaffhausen,Germanic
+961,BSC Young Boys,Germanic
+962,FC Winterthur,Germanic
+963,FC Winterthur,Germanic
+964,Grasshoppers,Germanic
+965,Grasshoppers,Germanic
+966,FC Vaduz,Germanic
+967,FC Vaduz,Germanic
+968,1.FC Köln,Germanic
+969,Hamburger SV,Germanic
+970,FC Augsburg,Germanic
+971,FC Augsburg,Germanic
+972,SC Kriens,Germanic
+973,FC Wohlen,Germanic
+974,A. Lustenau,Germanic
+975,FC Biel-Bienne,Germanic
+976,FC Biel-Bienne,Germanic
+977,SC Freiburg,Germanic
+978,St. Gallen U21,Germanic
+979,St. Gallen U21,Germanic
+980,St. Gallen U21,Germanic
+981,St. Gallen U21,Germanic
+982,St. Gallen U21,Germanic
+983,St. Gallen U21,Germanic
+984,St. Gallen U21,Germanic
+985,St. Gallen U21,Germanic
+986,St. Gallen U21,Germanic
+987,St. Gallen U21,Germanic
+988,St. Gallen U21,Germanic
+989,St. Gallen U21,Germanic
+990,St. Gallen U21,Germanic
+991,St. Gallen U21,Germanic
+992,St. Gallen U21,Germanic
+993,St. Gallen U21,Germanic
+994,St. Gallen U21,Germanic
+995,St. Gallen U21,Germanic
+996,St. Gallen U21,Germanic
+997,St. Gallen U21,Germanic
+998,St. Gallen U21,Germanic
+999,St. Gallen U21,Germanic
+1000,St. Gallen U21,Germanic
+1001,St. Gallen U21,Germanic
+1002,Austria Wien,Germanic
+1003,Grasshopper Club Zürich,Germanic
+1004,Grasshopper Club Zürich,Germanic
+1005,GC Zürich U21,Germanic
+1006,VfR Aalen,Germanic
+1007,Rapid Wien,Germanic
+1008,St. Gallen U18,Germanic
+1009,St. Gallen U18,Germanic
+1010,St. Gallen U18,Germanic
+1011,St. Gallen U18,Germanic
+1012,Wolfsberger AC,Germanic
+1013,F. Düsseldorf,Germanic
+1014,1860 München,Germanic
+1015,1.FC Köln II,Germanic
+1016,Bayern München,Germanic
+1017,1.FC K'lautern,Germanic
+1018,SV Ried,Germanic
+1019,FC Wil 1900,Germanic
+1020,FC Wil 1900,Germanic
+1021,FC Wil 1900,Germanic
+1022,FC Wil 1900,Germanic
+1023,FC Wil 1900,Germanic
+1024,FC Wil 1900,Germanic
+1025,FC Wil 1900,Germanic
+1026,FC Basel U21,Germanic
+1027,FC Basel U21,Germanic
+1028,FC Basel,Germanic
+1029,FC Basel,Germanic
+1030,FC Basel,Germanic
+1031,FC Basel,Germanic
+1032,FC Basel,Germanic
+1033,FC Luzern,Germanic
+1034,FC Luzern,Germanic
+1035,FC Luzern,Germanic
+1036,FC Luzern,Germanic
+1037,FC Luzern,Germanic
+1038,FC Luzern,Germanic
+1039,FC Luzern,Germanic
+1040,FC Luzern,Germanic
+1041,FC Thun,Germanic
+1042,Rapperswil-Jona,Germanic
+1043,1.FSV Mainz 05,Germanic
+1044,FC St. Gallen,Germanic
+1045,FC St. Gallen,Germanic
+1046,FC St. Gallen,Germanic
+1047,FC Schaffhausen,Germanic
+1048,FC Schaffhausen,Germanic
+1049,FC Zürich,Germanic
+1050,FC Zürich,Germanic
+1051,FC Zürich,Germanic
+1052,FC Zürich,Germanic
+1053,BSC Young Boys,Germanic
+1054,BSC Young Boys,Germanic
+1055,BSC Young Boys,Germanic
+1056,BSC Young Boys,Germanic
+1057,BSC Young Boys,Germanic
+1058,FC Winterthur,Germanic
+1059,FC Winterthur,Germanic
+1060,FC Winterthur,Germanic
+1061,FC Winterthur,Germanic
+1062,Grasshoppers,Germanic
+1063,Grasshoppers,Germanic
+1064,Grasshoppers,Germanic
+1065,Grasshoppers,Germanic
+1066,Grasshoppers,Germanic
+1067,SC Kriens,Germanic
+1068,FC Wohlen,Germanic
+1069,FC Wohlen,Germanic
+1070,FC Biel-Bienne,Germanic
+1071,FC Schalke 04,Germanic
+1072,FC Breitenrain,Germanic
+1073,TSG Hoffenheim,Germanic
+1074,Grasshopper Club Zürich,Germanic
+1075,Grasshopper Club Zürich,Germanic
+1076,Grasshopper Club Zürich,Germanic
+1077,Grasshopper Club Zürich,Germanic
+1078,Grasshopper Club Zürich,Germanic
+1079,GC Zürich U21,Germanic
+1080,GC Zürich U21,Germanic
+1081,FC Baden,Germanic
+1082,FC Baden,Germanic
+1083,FC Baden,Germanic
+1084,FC Baden,Germanic
+1085,Aargau U18,Germanic
+1086,Aargau U18,Germanic
+1087,Aargau U18,Germanic
+1088,Aargau U18,Germanic
+1089,Aargau U18,Germanic
+1090,Aargau U18,Germanic
+1091,Aargau U18,Germanic
+1092,Aargau U18,Germanic
+1093,Aargau U18,Germanic
+1094,Aargau U18,Germanic
+1095,Aargau U18,Germanic
+1096,Aargau U18,Germanic
+1097,Aargau U18,Germanic
+1098,Aargau U18,Germanic
+1099,Aargau U18,Germanic
+1100,Aargau U18,Germanic
+1101,FC Wohlen U23,Germanic
+1102,FC Black Stars,Germanic
+1103,Karlsruher SC,Germanic
+1104,Aargau U16,Germanic
+1105,Aargau U21,Germanic
+1106,Aargau U21,Germanic
+1107,Aargau U21,Germanic
+1108,Aargau U21,Germanic
+1109,Aargau U21,Germanic
+1110,Aargau U21,Germanic
+1111,Aargau U21,Germanic
+1112,Aargau U21,Germanic
+1113,FC Aarau II,Germanic
+1114,FC Wettswil,Germanic
+1115,M'gladbach II,Germanic
+1116,Greuther Fürth,Germanic
+1117,FC Schötz,Germanic
+1118,FC Wangen b. O.,Germanic
+1119,FC Basel,Germanic
+1120,FC Basel,Germanic
+1121,FC Basel,Germanic
+1122,FC Basel,Germanic
+1123,FC Aarau,Germanic
+1124,FC Aarau,Germanic
+1125,FC Aarau,Germanic
+1126,FC Aarau,Germanic
+1127,FC Aarau,Germanic
+1128,FC Luzern,Germanic
+1129,FC Luzern,Germanic
+1130,FC Thun,Germanic
+1131,FC Thun,Germanic
+1132,FC St. Gallen,Germanic
+1133,FC St. Gallen,Germanic
+1134,FC St. Gallen,Germanic
+1135,FC St. Gallen,Germanic
+1136,BSC Young Boys,Germanic
+1137,BSC Young Boys,Germanic
+1138,BSC Young Boys,Germanic
+1139,BSC Young Boys,Germanic
+1140,FC Vaduz,Germanic
+1141,FC Vaduz,Germanic
+1142,FC Vaduz,Germanic
+1143,FC Luzern,Germanic
+1144,FC Luzern,Germanic
+1145,FC Luzern,Germanic
+1146,FC Luzern,Germanic
+1147,FC Luzern,Germanic
+1148,FC Luzern,Germanic
+1149,FC Luzern,Germanic
+1150,FC Luzern,Germanic
+1151,FC Luzern,Germanic
+1152,FC Luzern,Germanic
+1153,FC Luzern,Germanic
+1154,FC Thun,Germanic
+1155,FC Thun,Germanic
+1156,FC Zürich,Germanic
+1157,FC Zürich,Germanic
+1158,FC Zürich,Germanic
+1159,BSC Young Boys,Germanic
+1160,BSC Young Boys,Germanic
+1161,BSC Young Boys,Germanic
+1162,FC Vaduz,Germanic
+1163,Grasshopper Club Zürich,Germanic
+1164,Grasshopper Club Zürich,Germanic
+1165,FC Basel,Germanic
+1166,FC Aarau,Germanic
+1167,FC Aarau,Germanic
+1168,FC Thun,Germanic
+1169,FC Thun,Germanic
+1170,FC St. Gallen,Germanic
+1171,FC Zürich,Germanic
+1172,FC Zürich,Germanic
+1173,FC Zürich,Germanic
+1174,FC Zürich,Germanic
+1175,FC Zürich,Germanic
+1176,BSC Young Boys,Germanic
+1177,FC Vaduz,Germanic
+1178,FC Vaduz,Germanic
+1179,FC Vaduz,Germanic
+1180,FC Vaduz,Germanic
+1181,Grasshopper Club Zürich,Germanic
+1182,Grasshopper Club Zürich,Germanic
+1183,Grasshopper Club Zürich,Germanic
+1184,Grasshopper Club Zürich,Germanic
+1185,BSC Young Boys,Germanic
+1186,FC Basel,Germanic
+1187,FC Zürich,Germanic
+1188,FC Basel,Germanic
+1189,FC Basel,Germanic
+1190,FC Basel,Germanic
+1191,FC Basel,Germanic
+1192,FC Basel,Germanic
+1193,FC Basel,Germanic
+1194,FC Basel,Germanic
+1195,FC Basel,Germanic
+1196,FC Basel,Germanic
+1197,FC Aarau,Germanic
+1198,FC Aarau,Germanic
+1199,FC Aarau,Germanic
+1200,FC Aarau,Germanic
+1201,FC Aarau,Germanic
+1202,FC Aarau,Germanic
+1203,FC Luzern,Germanic
+1204,FC Luzern,Germanic
+1205,FC Luzern,Germanic
+1206,FC Luzern,Germanic
+1207,FC Luzern,Germanic
+1208,FC Luzern,Germanic
+1209,FC Luzern,Germanic
+1210,FC Thun,Germanic
+1211,FC Thun,Germanic
+1212,FC Thun,Germanic
+1213,FC Thun,Germanic
+1214,FC Thun,Germanic
+1215,FC Thun,Germanic
+1216,FC St. Gallen,Germanic
+1217,FC St. Gallen,Germanic
+1218,FC St. Gallen,Germanic
+1219,FC Zürich,Germanic
+1220,FC Zürich,Germanic
+1221,FC Zürich,Germanic
+1222,FC Zürich,Germanic
+1223,FC Zürich,Germanic
+1224,BSC Young Boys,Germanic
+1225,BSC Young Boys,Germanic
+1226,BSC Young Boys,Germanic
+1227,BSC Young Boys,Germanic
+1228,BSC Young Boys,Germanic
+1229,FC Vaduz,Germanic
+1230,FC Vaduz,Germanic
+1231,FC Vaduz,Germanic
+1232,FC Vaduz,Germanic
+1233,FC Vaduz,Germanic
+1234,FC Vaduz,Germanic
+1235,Grasshopper Club Zürich,Germanic
+1236,Grasshopper Club Zürich,Germanic
+1237,Grasshopper Club Zürich,Germanic
+1238,Grasshopper Club Zürich,Germanic
+1239,Grasshopper Club Zürich,Germanic
+1240,Grasshopper Club Zürich,Germanic
+1241,FC Basel,Germanic
+1242,BSC Young Boys,Germanic
+1243,Grasshopper Club Zürich,Germanic
+1244,Grasshopper Club Zürich,Germanic
+1245,FC Basel,Germanic
+1246,FC Basel,Germanic
+1247,FC Basel,Germanic
+1248,FC Basel,Germanic
+1249,FC Aarau,Germanic
+1250,FC Aarau,Germanic
+1251,FC Aarau,Germanic
+1252,FC Aarau,Germanic
+1253,FC Aarau,Germanic
+1254,FC Luzern,Germanic
+1255,FC Luzern,Germanic
+1256,FC Luzern,Germanic
+1257,FC St. Gallen,Germanic
+1258,FC St. Gallen,Germanic
+1259,FC St. Gallen,Germanic
+1260,FC St. Gallen,Germanic
+1261,FC St. Gallen,Germanic
+1262,FC St. Gallen,Germanic
+1263,FC Zürich,Germanic
+1264,FC Zürich,Germanic
+1265,FC Zürich,Germanic
+1266,FC Zürich,Germanic
+1267,FC Zürich,Germanic
+1268,FC Zürich,Germanic
+1269,FC Zürich,Germanic
+1270,BSC Young Boys,Germanic
+1271,BSC Young Boys,Germanic
+1272,BSC Young Boys,Germanic
+1273,BSC Young Boys,Germanic
+1274,FC Vaduz,Germanic
+1275,FC Vaduz,Germanic
+1276,Grasshopper Club Zürich,Germanic
+1277,Grasshopper Club Zürich,Germanic
+1278,Grasshopper Club Zürich,Germanic
+1279,Grasshopper Club Zürich,Germanic
+1280,Grasshopper Club Zürich,Germanic
+1281,FC Basel,Germanic
+1282,FC Basel,Germanic
+1283,FC Aarau,Germanic
+1284,FC Luzern,Germanic
+1285,FC Luzern,Germanic
+1286,FC Thun,Germanic
+1287,FC Thun,Germanic
+1288,FC Thun,Germanic
+1289,FC Thun,Germanic
+1290,FC Thun,Germanic
+1291,FC Thun,Germanic
+1292,FC Thun,Germanic
+1293,FC St. Gallen,Germanic
+1294,FC Zürich,Germanic
+1295,FC Zürich,Germanic
+1296,BSC Young Boys,Germanic
+1297,BSC Young Boys,Germanic
+1298,BSC Young Boys,Germanic
+1299,FC Vaduz,Germanic
+1300,Grasshopper Club Zürich,Germanic
+1301,FC Aarau,Germanic
+1302,FC Aarau,Germanic
+1303,FC Aarau,Germanic
+1304,FC Thun,Germanic
+1305,FC Thun,Germanic
+1306,FC Thun,Germanic
+1307,BSC Young Boys,Germanic
+1308,FC Vaduz,Germanic
+1309,FC Basel,Germanic
+1310,FC Aarau,Germanic
+1311,FC Aarau,Germanic
+1312,FC Aarau,Germanic
+1313,FC Aarau,Germanic
+1314,FC Aarau,Germanic
+1315,FC Luzern,Germanic
+1316,FC Luzern,Germanic
+1317,FC Luzern,Germanic
+1318,FC Luzern,Germanic
+1319,FC Luzern,Germanic
+1320,FC Luzern,Germanic
+1321,FC Luzern,Germanic
+1322,FC Luzern,Germanic
+1323,FC St. Gallen,Germanic
+1324,FC Zürich,Germanic
+1325,FC Zürich,Germanic
+1326,FC Zürich,Germanic
+1327,FC Zürich,Germanic
+1328,BSC Young Boys,Germanic
+1329,BSC Young Boys,Germanic
+1330,BSC Young Boys,Germanic
+1331,BSC Young Boys,Germanic
+1332,BSC Young Boys,Germanic
+1333,FC Vaduz,Germanic
+1334,FC Vaduz,Germanic
+1335,Grasshopper Club Zürich,Germanic
+1336,Grasshopper Club Zürich,Germanic
+1337,Grasshopper Club Zürich,Germanic
+1338,Grasshopper Club Zürich,Germanic
+1339,Grasshopper Club Zürich,Germanic
+1340,FC Basel,Germanic
+1341,FC Zürich,Germanic
+1342,FC Zürich,Germanic
+1343,BSC Young Boys,Germanic
+1344,FC Basel,Germanic
+1345,FC Basel,Germanic
+1346,FC Basel,Germanic
+1347,FC St. Gallen,Germanic
+1348,FC Zürich,Germanic
+1349,Grasshopper Club Zürich,Germanic
+1350,FC Basel,Germanic
+1351,FC Basel,Germanic
+1352,FC Basel,Germanic
+1353,FC Luzern,Germanic
+1354,FC Basel,Germanic
+1355,FC Basel,Germanic
+1356,FC Basel,Germanic
+1357,FC Aarau,Germanic
+1358,FC Luzern,Germanic
+1359,FC Luzern,Germanic
+1360,FC Luzern,Germanic
+1361,FC Thun,Germanic
+1362,FC St. Gallen,Germanic
+1363,FC St. Gallen,Germanic
+1364,FC St. Gallen,Germanic
+1365,FC Zürich,Germanic
+1366,FC Zürich,Germanic
+1367,FC Zürich,Germanic
+1368,FC Zürich,Germanic
+1369,BSC Young Boys,Germanic
+1370,BSC Young Boys,Germanic
+1371,BSC Young Boys,Germanic
+1372,FC Vaduz,Germanic
+1373,Grasshopper Club Zürich,Germanic
+1374,Grasshopper Club Zürich,Germanic
+1375,Grasshopper Club Zürich,Germanic
+1376,Grasshopper Club Zürich,Germanic
+1377,Grasshopper Club Zürich,Germanic
+1378,Grasshopper Club Zürich,Germanic
+1379,Grasshopper Club Zürich,Germanic
+1380,Grasshopper Club Zürich,Germanic
+1381,Grasshopper Club Zürich,Germanic
+1382,FC Basel,Germanic
+1383,FC Basel,Germanic
+1384,FC Basel,Germanic
+1385,FC Zürich,Germanic
+1386,BSC Young Boys,Germanic
+1387,FC Basel,Germanic
+1388,FC Aarau,Germanic
+1389,FC Aarau,Germanic
+1390,FC Thun,Germanic
+1391,FC Thun,Germanic
+1392,FC Vaduz,Germanic
+1393,FC Vaduz,Germanic
+1394,FC Basel,Germanic
+1395,FC Basel,Germanic
+1396,FC Zürich,Germanic
+1397,Grasshopper Club Zürich,Germanic
+1398,FC Basel,Germanic
+1399,FC Basel,Germanic
+1400,FC Basel,Germanic
+1401,FC Zürich,Germanic
+1402,FC Vaduz,Germanic
+1403,FC Basel,Germanic
+1404,FC Basel,Germanic
+1405,BSC Young Boys,Germanic
+1406,FC Basel,Germanic
+1407,FC Basel,Germanic
+1408,FC Basel,Germanic
+1409,FC St. Gallen,Germanic
+1410,FC St. Gallen,Germanic
+1411,FC St. Gallen,Germanic
+1412,FC St. Gallen,Germanic
+1413,FC St. Gallen,Germanic
+1414,FC St. Gallen,Germanic
+1415,FC St. Gallen,Germanic
+1416,FC Vaduz,Germanic
+1417,FC Basel,Germanic
+1418,FC Basel,Germanic
+1419,FC Vaduz,Germanic
+1420,FC Basel,Germanic
+1421,FC Basel,Germanic
+1422,FC Basel,Germanic
+1423,FC Luzern,Germanic
+1424,FC Basel,Germanic
+1425,FC Basel,Germanic
+1426,FC Aarau,Germanic
+1427,FC Aarau,Germanic
+1428,FC Aarau,Germanic
+1429,FC Luzern,Germanic
+1430,FC Aarau,Germanic
+1431,FC Aarau,Germanic
+1432,FC Aarau,Germanic
+1433,FC Aarau,Germanic
+1434,FC Aarau,Germanic
+1435,FC Aarau,Germanic
+1436,FC Aarau,Germanic
+1437,FC Aarau,Germanic
+1438,FC Aarau,Germanic
+1439,FC Aarau,Germanic
+1440,FC Aarau,Germanic
+1441,FC Aarau,Germanic
+1442,FC Aarau,Germanic
+1443,FC Aarau,Germanic
+1444,FC Aarau,Germanic
+1445,FC Aarau,Germanic
+1446,FC Aarau,Germanic
+1447,FC Aarau,Germanic
+1448,FC Aarau,Germanic
+1449,FC Aarau,Germanic
+1450,FC Aarau,Germanic
+1451,Grasshopper Club Zürich,Germanic
+1452,FC Aarau,Germanic
+1453,FC Thun,Germanic
+1454,FC Thun,Germanic
+1455,FC Aarau,Germanic
+1456,FC Aarau,Germanic
+1457,Grasshopper Club Zürich,Germanic
+1458,Grasshopper Club Zürich,Germanic
+1459,FC Aarau,Germanic
+1460,FC Aarau,Germanic
+1461,FC Aarau,Germanic
+1462,FC Aarau,Germanic
+1463,FC Luzern,Germanic
+1464,FC Vaduz,Germanic
+1465,FC Vaduz,Germanic
+1466,FC Aarau,Germanic
+1467,FC Aarau,Germanic
+1468,FC Thun,Germanic
+1469,FC Thun,Germanic
+1470,FC Thun,Germanic
+1471,FC Vaduz,Germanic
+1472,FC Aarau,Germanic
+1473,FC Aarau,Germanic
+1474,FC Aarau,Germanic
+1475,FC Aarau,Germanic
+1476,FC Aarau,Germanic
+1477,FC Aarau,Germanic
+1478,FC Vaduz,Germanic
+1479,FC Aarau,Germanic
+1480,FC Aarau,Germanic
+1481,FC Aarau,Germanic
+1482,FC Aarau,Germanic
+1483,FC Luzern,Germanic
+1484,FC Luzern,Germanic
+1485,FC St. Gallen,Germanic
+1486,Grasshopper Club Zürich,Germanic
+1487,FC Luzern,Germanic
+1488,FC Luzern,Germanic
+1489,FC Luzern,Germanic
+1490,FC Luzern,Germanic
+1491,FC Luzern,Germanic
+1492,BSC Young Boys,Germanic
+1493,FC Luzern,Germanic
+1494,FC Luzern,Germanic
+1495,FC Luzern,Germanic
+1496,BSC Young Boys,Germanic
+1497,FC Luzern,Germanic
+1498,Grasshopper Club Zürich,Germanic
+1499,FC Thun,Germanic
+1500,FC Thun,Germanic
+1501,FC Thun,Germanic
+1502,FC Thun,Germanic
+1503,FC Thun,Germanic
+1504,FC Thun,Germanic
+1505,FC Thun,Germanic
+1506,FC Thun,Germanic
+1507,FC Thun,Germanic
+1508,FC Zürich,Germanic
+1509,FC St. Gallen,Germanic
+1510,FC St. Gallen,Germanic
+1511,FC St. Gallen,Germanic
+1512,FC Vaduz,Germanic
+1513,FC St. Gallen,Germanic
+1514,FC St. Gallen,Germanic
+1515,FC St. Gallen,Germanic
+1516,FC Vaduz,Germanic
+1517,FC Vaduz,Germanic
+1518,Grasshopper Club Zürich,Germanic
+1519,FC St. Gallen,Germanic
+1520,FC St. Gallen,Germanic
+1521,FC St. Gallen,Germanic
+1522,FC Vaduz,Germanic
+1523,FC St. Gallen,Germanic
+1524,FC Vaduz,Germanic
+1525,FC St. Gallen,Germanic
+1526,FC St. Gallen,Germanic
+1527,Grasshopper Club Zürich,Germanic
+1528,Grasshopper Club Zürich,Germanic
+1529,FC St. Gallen,Germanic
+1530,FC Zürich,Germanic
+1531,FC Zürich,Germanic
+1532,FC Zürich,Germanic
+1533,FC Zürich,Germanic
+1534,FC Zürich,Germanic
+1535,FC Zürich,Germanic
+1536,FC Zürich,Germanic
+1537,FC Zürich,Germanic
+1538,Grasshopper Club Zürich,Germanic
+1539,FC Zürich,Germanic
+1540,FC Zürich,Germanic
+1541,FC Zürich,Germanic
+1542,FC Zürich,Germanic
+1543,FC Zürich,Germanic
+1544,FC Zürich,Germanic
+1545,FC Zürich,Germanic
+1546,FC Zürich,Germanic
+1547,FC Zürich,Germanic
+1548,FC Zürich,Germanic
+1549,BSC Young Boys,Germanic
+1550,FC Zürich,Germanic
+1551,FC Zürich,Germanic
+1552,BSC Young Boys,Germanic
+1553,BSC Young Boys,Germanic
+1554,BSC Young Boys,Germanic
+1555,BSC Young Boys,Germanic
+1556,BSC Young Boys,Germanic
+1557,BSC Young Boys,Germanic
+1558,BSC Young Boys,Germanic
+1559,BSC Young Boys,Germanic
+1560,BSC Young Boys,Germanic
+1561,BSC Young Boys,Germanic
+1562,Grasshopper Club Zürich,Germanic
+1563,BSC Young Boys,Germanic
+1564,FC Vaduz,Germanic
+1565,FC Vaduz,Germanic
+1566,FC Vaduz,Germanic
+1567,FC Vaduz,Germanic
+1568,FC Vaduz,Germanic
+1569,FC Vaduz,Germanic
+1570,FC Vaduz,Germanic
+1571,FC Vaduz,Germanic
+1572,FC Vaduz,Germanic
+1573,FC Vaduz,Germanic
+1574,Grasshopper Club Zürich,Germanic
+1575,FC Vaduz,Germanic
+1576,FC Vaduz,Germanic
+1577,FC Vaduz,Germanic
+1578,FC Vaduz,Germanic
+1579,FC Vaduz,Germanic
+1580,FC Vaduz,Germanic
+1581,FC Vaduz,Germanic
+1582,FC Vaduz,Germanic
+1583,FC Vaduz,Germanic
+1584,FC Vaduz,Germanic
+1585,FC Vaduz,Germanic
+1586,FC Vaduz,Germanic
+1587,FC Vaduz,Germanic
+1588,Grasshopper Club Zürich,Germanic
+1589,Grasshopper Club Zürich,Germanic
+1590,Grasshopper Club Zürich,Germanic
+1591,Grasshopper Club Zürich,Germanic
+1592,Norwich City,Germanic
+1593,Los Angeles FC,Germanic
+1594,Sydney FC,Germanic
+1595,West Ham Utd.,Germanic
+1596,Toronto FC II,Germanic
+1597,MFM FC,Germanic
+1598,FC Montréal,Germanic
+1599,Orlando City SC,Germanic
+1600,Chelsea U23,Germanic
+1601,Vancouver,Germanic
+1602,Stoke U23,Germanic
+1603,Wolverhampton,Germanic
+1604,Wolverhampton,Germanic
+1605,Wolverhampton,Germanic
+1606,Wolverhampton,Germanic
+1607,Wolverhampton,Germanic
+1608,Wolves U23,Germanic
+1609,FC Heartland,Germanic
+1610,FC Everton,Germanic
+1611,FC Everton,Germanic
+1612,Aston Villa,Germanic
+1613,Arsenal U21,Germanic
+1614,Ross County,Germanic
+1615,Wigan Athletic,Germanic
+1616,FC Reading,Germanic
+1617,Aston Villa,Germanic
+1618,Dundee FC,Germanic
+1619,Newcastle Utd.,Germanic
+1620,Newcastle Utd.,Germanic
+1621,D.C. United,Germanic
+1622,Stoke U23,Germanic
+1623,FC Cincinnati,Germanic
+1624,Kansas City,Germanic
+1625,FC Fulham,Germanic
+1626,FC Liverpool,Germanic
+1627,Central Coast,Germanic
+1628,Chelsea U23,Germanic
+1629,Hibernian FC,Germanic
+1630,Philadelphia,Germanic
+1631,Quakes,Germanic
+1632,FC Utrecht,Germanic
+1633,Vitesse Arnheim,Germanic
+1634,Feyenoord,Germanic
+1635,FC Groningen,Germanic
+1636,Ajax Amsterdam,Germanic
+1637,Twente Enschede,Germanic
+1638,Willem II,Germanic
+1639,FC Utrecht,Germanic
+1640,FC Utrecht,Germanic
+1641,Ajax Amsterdam,Germanic
+1642,Roda JC,Germanic
+1643,NEC Nijmegen,Germanic
+1644,FC Utrecht,Germanic
+1645,AZ Alkmaar,Germanic
+1646,FC Dordrecht,Germanic
+1647,Molde,Germanic
+1648,Vålerenga,Germanic
+1649,Strømsgodset,Germanic
+1650,Odense BK,Germanic
+1651,Esbjerg fB,Germanic
+1652,Vestsjaelland,Germanic
+1653,IFK Norrköping,Germanic
+1654,Kalmar FF,Germanic
+1655,Umeå FC,Germanic
+1656,GIF Sundsvall,Germanic
+1657,Halmstad,Germanic
+1658,PAOK Saloniki,Hellenic
+1659,Panathinaikos,Hellenic
+1660,Omonia Nikosia,Hellenic
+1661,Ethnikos,Hellenic
+1662,Dynamo Kiew,Slavic
+1663,Jagodina,Slavic
+1664,Partizan,Slavic
+1665,Roter Stern,Slavic
+1666,BSK Borca,Slavic
+1667,Roter Stern,Slavic
+1668,OFK Belgrad,Slavic
+1669,Jagodina,Slavic
+1670,Partizan,Slavic
+1671,Sloboda Uzice,Slavic
+1672,NK Olimpija,Slavic
+1673,ND Gorica,Slavic
+1674,Spartak Moskau,Slavic
+1675,Spartak Moskau,Slavic
+1676,FK Orenburg,Slavic
+1677,Dinamo Minsk,Slavic
+1678,Zenit S-Pb,Slavic
+1679,Zenit II,Slavic
+1680,Spartak Moskau,Slavic
+1681,FK Ufa,Slavic
+1682,Rubin Kazan,Slavic
+1683,ZSKA Moskau,Slavic
+1684,FK Rostov,Slavic
+1685,BATE Borisov,Slavic
+1686,Spartaks,Slavic
+1687,Ural,Slavic
+1688,Sparta Prag,Slavic
+1689,Viktoria Pilsen,Slavic
+1690,Sparta Prag,Slavic
+1691,Lech Posen,Slavic
+1692,Legia Warschau,Slavic
+1693,Ruch Chorzow,Slavic
+1694,Lechia Gdansk,Slavic
+1695,Wisla Krakau,Slavic
+1696,Travnik,Slavic
+1697,Rudar Prijedor,Slavic
+1698,Travnik,Slavic
+1699,Sloboda Tuzla,Slavic
+1700,Ruzomberok,Slavic
+1701,Spartak Trnava,Slavic
+1702,Ludogorets,Slavic
+1703,Septemvri Sofia,Slavic
+1704,HNK Rijeka,Slavic
+1705,NK Zadar ,Slavic
+1706,Hajduk Split,Slavic
+1707,Cibalia,Slavic
+1708,Rabotn. Skopje,Slavic
+1709,Vereinslos,Vereinslos
+1710,Vereinslos,Vereinslos
+1711,Vereinslos,Vereinslos
+1712,Vereinslos,Vereinslos
+1713,Vereinslos,Vereinslos
+1714,Vereinslos,Vereinslos
+1715,Vereinslos,Vereinslos
+1716,Vereinslos,Vereinslos
+1717,Vereinslos,Vereinslos
+1718,Vereinslos,Vereinslos
+1719,Vereinslos,Vereinslos
+1720,Vereinslos,Vereinslos
+1721,Vereinslos,Vereinslos
+1722,Vereinslos,Vereinslos
+1723,Vereinslos,Vereinslos
+1724,Vereinslos,Vereinslos
+1725,Vereinslos,Vereinslos
+1726,Vereinslos,Vereinslos
+1727,Vereinslos,Vereinslos
+1728,Vereinslos,Vereinslos
+1729,Vereinslos,Vereinslos
+1730,Vereinslos,Vereinslos
+1731,Vereinslos,Vereinslos
+1732,Vereinslos,Vereinslos
+1733,Vereinslos,Vereinslos
+1734,Vereinslos,Vereinslos
+1735,Vereinslos,Vereinslos
+1736,Vereinslos,Vereinslos
+1737,Vereinslos,Vereinslos
+1738,Vereinslos,Vereinslos
+1739,Vereinslos,Vereinslos
+1740,Vereinslos,Vereinslos
+1741,Zamalek,Semitic
+1742,Smouha,Semitic
+1743,El Mokawloon,Semitic
+1744,El Mokawloon,Semitic
+1745,El Mokawloon,Semitic
+1746,Al-Jazira,Semitic
+1747,Dubai CSC,Semitic
+1748,Enppi SC,Semitic
+1749,Al-Shorta SC,Semitic
+1750,Smouha,Semitic
+1751,Wadi Degla ,Semitic
+1752,Enppi SC,Semitic
+1753,Dubai CSC,Semitic
+1754,B. Jerusalem,Semitic
+1755,M. Tel Aviv,Semitic
+1756,Hapoel Raanana,Semitic
+1757,H. Beer Sheva,Semitic
+1758,FC Ashdod,Semitic
+1759,FC Ashdod,Semitic
+1760,B. Jerusalem,Semitic
+1761,H. Kfar Saba,Semitic
+1762,Cerezo Osaka,Japonic
+1763,Júbilo Iwata,Japonic
+1764,Tochigi SC,Japonic
+1765,Kyoto Sanga,Japonic
+1766,FK Ventspils,Baltic
+1767,Skonto,Baltic
+1768,Dinamo Tiflis,South Caucasian
+1769,Osmanlispor,Turkic
+1770,Gaziantepspor,Turkic
+1771,Manisaspor,Turkic
+1772,Y. Malatyaspor,Turkic
+1773,Inter Baku,Turkic
+1774,JS Suning,Sinitic
+1775,BJ Guoan,Sinitic
+1776,Renhe Reserve,Sinitic
+1777,Pune City,Indo-Iranian
+1778,Esteghlal FC ,Indo-Iranian
+1779,pausiert,pausiert
+1780,pausiert,pausiert
+1781,Karriereende,Karriereende
+1782,HJK Helsinki,Finnic
+1783,HJK Helsinki,Finnic
+1784,Ferencváros,Ugric
+1785,WAFA SC,Afric
+1786,WAFA SC,Afric
+1787,KF Tirana,Albanian
+1788,FC Besa,Albanian
+1789,Palmeiras,Romance
+1790,Benfica,Romance
+1791,Benfica,Romance
+1792,Sporting,Romance
+1793,Belenenses SAD,Romance
+1794,Acad. Coimbra,Romance
+1795,Estoril Praia,Romance
+1796,Tombense,Romance
+1797,Leixões,Romance
+1798,Fluminense U20,Romance
+1799,Goiás EC,Romance
+1800,Fluminense,Romance
+1801,Boavista Porto,Romance
+1802,Fortaleza EC B,Romance
+1803,Vila Nova FC,Romance
+1804,Vila Nova FC,Romance
+1805,FC Santos,Romance
+1806,FC Santos,Romance
+1807,Flamengo,Romance
+1808,Coritiba FC U20,Romance
+1809,Kabuscorp SC,Romance
+1810,Estoril Praia,Romance
+1811,Sporting,Romance
+1812,Sporting,Romance
+1813,Arapongas,Romance
+1814,Athletico-PR,Romance
+1815,FC Chiasso,Romance
+1816,FC Chiasso,Romance
+1817,FC Lugano,Romance
+1818,FC Lugano,Romance
+1819,Novara Calcio,Romance
+1820,Chievo Verona,Romance
+1821,FC Locarno,Romance
+1822,AS Livorno,Romance
+1823,AS Livorno,Romance
+1824,Azzurri LS,Romance
+1825,Chieti,Romance
+1826,Juventus U19,Romance
+1827,AS Rom,Romance
+1828,AS Rom,Romance
+1829,Delfino Pescara,Romance
+1830,FC Chiasso,Romance
+1831,FC Chiasso,Romance
+1832,FC Lugano,Romance
+1833,Sampdoria,Romance
+1834,Neapel U19,Romance
+1835,AC Florenz,Romance
+1836,Juventus Turin,Romance
+1837,Juventus Turin,Romance
+1838,FC Crotone,Romance
+1839,Calcio Padova,Romance
+1840,Sambenedettese,Romance
+1841,Parma,Romance
+1842,Udinese Calcio,Romance
+1843,Inter Mailand,Romance
+1844,FC Chiasso,Romance
+1845,FC Chiasso,Romance
+1846,FC Chiasso,Romance
+1847,FC Chiasso,Romance
+1848,FC Chiasso,Romance
+1849,FC Lugano,Romance
+1850,AC Bellinzona,Romance
+1851,Juventus U23,Romance
+1852,Juventus U23,Romance
+1853,Juventus U23,Romance
+1854,Ternana,Romance
+1855,AC Mailand,Romance
+1856,FC Lugano,Romance
+1857,AC Mailand U19,Romance
+1858,BEJUNE U18,Romance
+1859,BEJUNE U18,Romance
+1860,BEJUNE U18,Romance
+1861,BEJUNE U18,Romance
+1862,BEJUNE U18,Romance
+1863,BEJUNE U18,Romance
+1864,BEJUNE U18,Romance
+1865,Sampdoria,Romance
+1866,AC Bellinzona,Romance
+1867,FC Lugano,Romance
+1868,FC Lugano,Romance
+1869,FC Lugano,Romance
+1870,FC Lugano,Romance
+1871,AC Bellinzona,Romance
+1872,AC Bellinzona,Romance
+1873,FC Lugano,Romance
+1874,AC Bellinzona,Romance
+1875,FC Lugano,Romance
+1876,FC Sion,Romance
+1877,FC Sion,Romance
+1878,FC Sion,Romance
+1879,FC Sion,Romance
+1880,FC Sion,Romance
+1881,Xamax,Romance
+1882,Xamax,Romance
+1883,Xamax,Romance
+1884,Olympique Lyon,Romance
+1885,Olympique Lyon,Romance
+1886,Olympique Lyon,Romance
+1887,Lausanne-Sport,Romance
+1888,Lausanne-Sport,Romance
+1889,Servette U18,Romance
+1890,Servette U18,Romance
+1891,Servette U18,Romance
+1892,Servette U18,Romance
+1893,Servette U18,Romance
+1894,Servette U18,Romance
+1895,Servette U18,Romance
+1896,Servette U18,Romance
+1897,Servette U18,Romance
+1898,Servette U18,Romance
+1899,Servette U18,Romance
+1900,Servette U18,Romance
+1901,Servette U18,Romance
+1902,Servette U18,Romance
+1903,Servette U18,Romance
+1904,Servette U18,Romance
+1905,Servette U18,Romance
+1906,SCO Angers,Romance
+1907,FC Sion U21,Romance
+1908,Yverdon-Sport,Romance
+1909,Zulte Waregem,Romance
+1910,Etoile Carouge,Romance
+1911,Etoile Carouge,Romance
+1912,Etoile Carouge,Romance
+1913,Etoile Carouge,Romance
+1914,Etoile Carouge,Romance
+1915,Etoile Carouge,Romance
+1916,Etoile Carouge,Romance
+1917,FC Valenciennes,Romance
+1918,RC Lens,Romance
+1919,Stade Nyonnais,Romance
+1920,Stade Nyonnais,Romance
+1921,FC Lausanne-Sport,Romance
+1922,FC Lausanne-Sport,Romance
+1923,Nîmes Olympique,Romance
+1924,Olymp. Lyon B,Romance
+1925,Servette U21,Romance
+1926,Servette U21,Romance
+1927,Servette U21,Romance
+1928,Servette U21,Romance
+1929,Servette U21,Romance
+1930,Servette U21,Romance
+1931,Servette U21,Romance
+1932,Servette U21,Romance
+1933,Servette U21,Romance
+1934,Servette U21,Romance
+1935,Servette U21,Romance
+1936,Servette U21,Romance
+1937,Servette U21,Romance
+1938,Servette U21,Romance
+1939,Servette U21,Romance
+1940,Servette U21,Romance
+1941,Servette U21,Romance
+1942,Servette U21,Romance
+1943,Saint-Étienne B,Romance
+1944,Stade Reims,Romance
+1945,Olymp. Lyon U19,Romance
+1946,US Boulogne,Romance
+1947,Stade Brest 29,Romance
+1948,Meyrin FC,Romance
+1949,Meyrin FC,Romance
+1950,Meyrin FC,Romance
+1951,Athletic Adjamé,Romance
+1952,Athletic Adjamé,Romance
+1953,Etoile Filante,Romance
+1954,Servette U17,Romance
+1955,La Vitréenne FC,Romance
+1956,FC Sion,Romance
+1957,FC Sion,Romance
+1958,FC Sion,Romance
+1959,FC Sion,Romance
+1960,FC Sion,Romance
+1961,FC Sion,Romance
+1962,FC Sion,Romance
+1963,FC Sion,Romance
+1964,AS Monaco,Romance
+1965,AS Monaco,Romance
+1966,Xamax,Romance
+1967,Olympique Lyon,Romance
+1968,AS St.-Étienne,Romance
+1969,Servette FC,Romance
+1970,Servette FC,Romance
+1971,Servette FC,Romance
+1972,Servette FC,Romance
+1973,Servette FC,Romance
+1974,LOSC Lille,Romance
+1975,FC Sion U21,Romance
+1976,FC Sochaux,Romance
+1977,Le Mont LS,Romance
+1978,Le Mont LS,Romance
+1979,Le Mont LS,Romance
+1980,Le Mans FC,Romance
+1981,Esperance,Romance
+1982,Yverdon-Sport,Romance
+1983,Stade-Lausanne,Romance
+1984,Team Vaud U21,Romance
+1985,Team Vaud U21,Romance
+1986,Team Vaud U21,Romance
+1987,Team Vaud U21,Romance
+1988,Team Vaud U21,Romance
+1989,Team Vaud U21,Romance
+1990,Team Vaud U21,Romance
+1991,Team Vaud U21,Romance
+1992,Team Vaud U21,Romance
+1993,Team Vaud U21,Romance
+1994,Team Vaud U21,Romance
+1995,Team Vaud U21,Romance
+1996,Team Vaud U21,Romance
+1997,Team Vaud U21,Romance
+1998,Team Vaud U21,Romance
+1999,Team Vaud U21,Romance
+2000,Team Vaud U21,Romance
+2001,Xamax II,Romance
+2002,Stade Nyonnais,Romance
+2003,Stade Nyonnais,Romance
+2004,OGC Nizza,Romance
+2005,OGC Nizza,Romance
+2006,OGC Nizza,Romance
+2007,OGC Nizza,Romance
+2008,OGC Nizza,Romance
+2009,OGC Nizza,Romance
+2010,OGC Nizza,Romance
+2011,FC Tours,Romance
+2012,AS Nancy,Romance
+2013,Thonon Évian,Romance
+2014,Team Vaud U18,Romance
+2015,Team Vaud U18,Romance
+2016,Team Vaud U18,Romance
+2017,Team Vaud U18,Romance
+2018,Team Vaud U18,Romance
+2019,Team Vaud U18,Romance
+2020,Team Vaud U18,Romance
+2021,Team Vaud U16,Romance
+2022,KV Kortrijk,Romance
+2023,AC Arles,Romance
+2024,AC Arles,Romance
+2025,AS Cannes,Romance
+2026,AS Monaco B,Romance
+2027,Stade Laval,Romance
+2028,FC Brügge,Romance
+2029,AS Kaloum,Romance
+2030,FC Le Mans B,Romance
+2031,Yverdon-Sports FC II (U21),Romance
+2032,KAC Kénitra,Romance
+2033,KRC Genk ,Romance
+2034,AS Monaco,Romance
+2035,Xamax,Romance
+2036,Xamax,Romance
+2037,Xamax,Romance
+2038,Xamax,Romance
+2039,Xamax,Romance
+2040,Xamax,Romance
+2041,Xamax,Romance
+2042,Xamax,Romance
+2043,Lausanne-Sport,Romance
+2044,Lausanne-Sport,Romance
+2045,AS St.-Étienne,Romance
+2046,Servette FC,Romance
+2047,Servette FC,Romance
+2048,Servette FC,Romance
+2049,Servette FC,Romance
+2050,Stade Rennes,Romance
+2051,FC Sion U21,Romance
+2052,FC Sion U21,Romance
+2053,FC Sion U21,Romance
+2054,FC Sion U21,Romance
+2055,FC Sion U21,Romance
+2056,FC Sion U21,Romance
+2057,FC Sion U21,Romance
+2058,FC Sion U21,Romance
+2059,FC Sion U21,Romance
+2060,FC Sion U21,Romance
+2061,FC Sion U21,Romance
+2062,FC Sion U21,Romance
+2063,FC Sion U21,Romance
+2064,FC Sion U21,Romance
+2065,FC Sion U21,Romance
+2066,FC Sion U21,Romance
+2067,FC Sion U21,Romance
+2068,FC Sion U21,Romance
+2069,FC Sion U21,Romance
+2070,FC Sion U21,Romance
+2071,FC Sion U21,Romance
+2072,FC Sion U21,Romance
+2073,FC Sion U21,Romance
+2074,FC Sion U21,Romance
+2075,FC Sion U21,Romance
+2076,FC Sion U21,Romance
+2077,FC Sion U21,Romance
+2078,FC Sion U21,Romance
+2079,FC Sion U21,Romance
+2080,FC Sion U21,Romance
+2081,FC Sion U21,Romance
+2082,FC Sion U21,Romance
+2083,FC Sion U21,Romance
+2084,FC Sion U21,Romance
+2085,FC Sion U21,Romance
+2086,Olymp. Genève,Romance
+2087,FC San Pedro,Romance
+2088,FC Sochaux,Romance
+2089,FC Sochaux,Romance
+2090,FC Sochaux,Romance
+2091,FC Sochaux,Romance
+2092,SO Cholet,Romance
+2093,USM Algier,Romance
+2094,Niarry Tally,Romance
+2095,Martigny-Sports,Romance
+2096,Martigny-Sports,Romance
+2097,FC Sion U18,Romance
+2098,KAA Gent,Romance
+2099,Stand. Lüttich,Romance
+2100,FC Aigle,Romance
+2101,ES Troyes AC,Romance
+2102,FC Monthey,Romance
+2103,Le Mont LS,Romance
+2104,FC Nantes,Romance
+2105,Le Mans FC,Romance
+2106,Le Mans FC,Romance
+2107,Le Mans FC,Romance
+2108,Le Mans FC,Romance
+2109,Esperance,Romance
+2110,Esperance,Romance
+2111,Club Africain,Romance
+2112,R. Straßburg,Romance
+2113,FC Metz,Romance
+2114,FC Lausanne-Sport,Romance
+2115,FC Lausanne-Sport,Romance
+2116,FC Sion,Romance
+2117,FC Sion,Romance
+2118,FC Sion,Romance
+2119,Xamax,Romance
+2120,Xamax,Romance
+2121,Xamax,Romance
+2122,Xamax,Romance
+2123,Xamax,Romance
+2124,Xamax,Romance
+2125,Xamax,Romance
+2126,Xamax,Romance
+2127,Lausanne-Sport,Romance
+2128,Lausanne-Sport,Romance
+2129,Lausanne-Sport,Romance
+2130,Lausanne-Sport,Romance
+2131,Lausanne-Sport,Romance
+2132,Servette FC,Romance
+2133,Servette FC,Romance
+2134,Servette FC,Romance
+2135,FC Sion U21,Romance
+2136,FC Sion U21,Romance
+2137,FC Sion U21,Romance
+2138,FC Sion U21,Romance
+2139,FC Sochaux,Romance
+2140,Le Mont LS,Romance
+2141,Le Mont LS,Romance
+2142,Yverdon-Sport,Romance
+2143,FC Fribourg,Romance
+2144,FC Fribourg,Romance
+2145,FC Fribourg,Romance
+2146,Etoile Carouge,Romance
+2147,Etoile Carouge,Romance
+2148,Etoile Carouge,Romance
+2149,Standard Res.,Romance
+2150,Stade-Lausanne,Romance
+2151,Team Vaud U21,Romance
+2152,SCO Angers B,Romance
+2153,RC Grasse,Romance
+2154,Xamax FCS U21,Romance
+2155,Xamax FCS U21,Romance
+2156,FC Bavois,Romance
+2157,Royal Mouscron,Romance
+2158,FC Donneloye,Romance
+2159,FC Portalban,Romance
+2160,SR Delémont,Romance
+2161,SR Delémont,Romance
+2162,SR Delémont,Romance
+2163,SR Delémont,Romance
+2164,SR Delémont,Romance
+2165,Xamax Jugend,Romance
+2166,Xamax Jugend,Romance
+2167,Xamax Jugend,Romance
+2168,Xamax Jugend,Romance
+2169,Xamax Jugend,Romance
+2170,FC Alle,Romance
+2171,FC Alle,Romance
+2172,FC Serrières,Romance
+2173,FC Baulmes,Romance
+2174,Xamax II,Romance
+2175,Xamax II,Romance
+2176,Xamax II,Romance
+2177,FC Lausanne-Sport,Romance
+2178,FC Lausanne-Sport,Romance
+2179,FC Lausanne-Sport,Romance
+2180,FC Lausanne-Sport,Romance
+2181,FC Lausanne-Sport,Romance
+2182,FC Lausanne-Sport,Romance
+2183,FC Sion,Romance
+2184,FC Sion,Romance
+2185,FC Sion,Romance
+2186,FC Sion,Romance
+2187,FC Sion,Romance
+2188,Xamax,Romance
+2189,Servette FC,Romance
+2190,Servette FC,Romance
+2191,FC Lausanne-Sport,Romance
+2192,FC Lausanne-Sport,Romance
+2193,FC Lausanne-Sport,Romance
+2194,FC Sion,Romance
+2195,FC Sion,Romance
+2196,FC Sion,Romance
+2197,FC Sion,Romance
+2198,FC Sion,Romance
+2199,FC Sion,Romance
+2200,FC Sion,Romance
+2201,FC Sion,Romance
+2202,FC Sion,Romance
+2203,FC Sion,Romance
+2204,FC Sion,Romance
+2205,FC Sion,Romance
+2206,FC Sion,Romance
+2207,FC Sion,Romance
+2208,FC Sion,Romance
+2209,FC Sion,Romance
+2210,FC Sion,Romance
+2211,FC Sion,Romance
+2212,FC Sion,Romance
+2213,FC Sion,Romance
+2214,FC Sion,Romance
+2215,FC Sion,Romance
+2216,FC Sion,Romance
+2217,Xamax,Romance
+2218,Xamax,Romance
+2219,Xamax,Romance
+2220,FC Sion,Romance
+2221,Xamax,Romance
+2222,FC Lausanne-Sport,Romance
+2223,FC Lausanne-Sport,Romance
+2224,FC Sion,Romance
+2225,Xamax,Romance
+2226,Xamax,Romance
+2227,Xamax,Romance
+2228,Servette FC,Romance
+2229,Servette FC,Romance
+2230,Servette FC,Romance
+2231,Servette FC,Romance
+2232,Servette FC,Romance
+2233,Servette FC,Romance
+2234,Servette FC,Romance
+2235,Servette FC,Romance
+2236,Servette FC,Romance
+2237,Servette FC,Romance
+2238,Servette FC,Romance
+2239,Servette FC,Romance
+2240,Servette FC,Romance
+2241,Servette FC,Romance
+2242,Servette FC,Romance
+2243,Servette FC,Romance
+2244,Servette FC,Romance
+2245,Servette FC,Romance
+2246,FC Lausanne-Sport,Romance
+2247,FC Lausanne-Sport,Romance
+2248,FC Lausanne-Sport,Romance
+2249,FC Lausanne-Sport,Romance
+2250,FC Lausanne-Sport,Romance
+2251,FC Lausanne-Sport,Romance
+2252,FC Lausanne-Sport,Romance
+2253,FC Lausanne-Sport,Romance
+2254,FC Sion,Romance
+2255,FC Sion,Romance
+2256,FC Sion,Romance
+2257,FC Sion,Romance
+2258,FC Sion,Romance
+2259,FC Sion,Romance
+2260,FC Sion,Romance
+2261,FC Sion,Romance
+2262,FC Sion,Romance
+2263,Servette FC,Romance
+2264,Servette FC,Romance
+2265,Servette FC,Romance
+2266,Servette FC,Romance
+2267,Servette FC,Romance
+2268,FC Sion,Romance
+2269,FC Sion,Romance
+2270,Xamax,Romance
+2271,Xamax,Romance
+2272,FC Lausanne-Sport,Romance
+2273,FC Lausanne-Sport,Romance
+2274,FC Lausanne-Sport,Romance
+2275,FC Lausanne-Sport,Romance
+2276,FC Lausanne-Sport,Romance
+2277,FC Lausanne-Sport,Romance
+2278,FC Lausanne-Sport,Romance
+2279,FC Lausanne-Sport,Romance
+2280,FC Lausanne-Sport,Romance
+2281,FC Sion,Romance
+2282,FC Sion,Romance
+2283,FC Sion,Romance
+2284,FC Sion,Romance
+2285,FC Sion,Romance
+2286,FC Sion,Romance
+2287,FC Sion,Romance
+2288,FC Sion,Romance
+2289,FC Sion,Romance
+2290,Servette FC,Romance
+2291,Servette FC,Romance
+2292,Servette FC,Romance
+2293,Servette FC,Romance
+2294,Servette FC,Romance
+2295,FC Sion,Romance
+2296,FC Sion,Romance
+2297,FC Sion,Romance
+2298,FC Lausanne-Sport,Romance
+2299,Xamax,Romance
+2300,Xamax,Romance
+2301,Xamax,Romance
+2302,Xamax,Romance
+2303,Xamax,Romance
+2304,Xamax,Romance
+2305,Xamax,Romance
+2306,Xamax,Romance
+2307,Servette FC,Romance
+2308,Servette FC,Romance
+2309,Servette FC,Romance
+2310,FC Lausanne-Sport,Romance
+2311,FC Lausanne-Sport,Romance
+2312,FC Lausanne-Sport,Romance
+2313,FC Lausanne-Sport,Romance
+2314,Xamax,Romance
+2315,Xamax,Romance
+2316,Xamax,Romance
+2317,Xamax,Romance
+2318,Xamax,Romance
+2319,Xamax,Romance
+2320,Xamax,Romance
+2321,Xamax,Romance
+2322,Xamax,Romance
+2323,Xamax,Romance
+2324,Xamax,Romance
+2325,Xamax,Romance
+2326,Xamax,Romance
+2327,Xamax,Romance
+2328,Servette FC,Romance
+2329,Servette FC,Romance
+2330,Servette FC,Romance
+2331,Servette FC,Romance
+2332,Servette FC,Romance
+2333,Servette FC,Romance
+2334,Servette FC,Romance
+2335,Servette FC,Romance
+2336,Servette FC,Romance
+2337,Servette FC,Romance
+2338,Servette FC,Romance
+2339,Servette FC,Romance
+2340,Servette FC,Romance
+2341,Servette FC,Romance
+2342,Servette FC,Romance
+2343,Servette FC,Romance
+2344,Servette FC,Romance
+2345,Servette FC,Romance
+2346,Servette FC,Romance
+2347,Servette FC,Romance
+2348,Servette FC,Romance
+2349,Servette FC,Romance
+2350,Servette FC,Romance
+2351,Servette FC,Romance
+2352,Servette FC,Romance
+2353,Servette FC,Romance
+2354,Servette FC,Romance
+2355,Xamax,Romance
+2356,Xamax,Romance
+2357,Xamax,Romance
+2358,Xamax,Romance
+2359,Xamax,Romance
+2360,Xamax,Romance
+2361,Xamax,Romance
+2362,Xamax,Romance
+2363,Xamax,Romance
+2364,Xamax,Romance
+2365,Xamax,Romance
+2366,Xamax,Romance
+2367,Servette FC,Romance
+2368,FC Lausanne-Sport,Romance
+2369,Xamax,Romance
+2370,Xamax,Romance
+2371,Xamax,Romance
+2372,Xamax,Romance
+2373,Xamax,Romance
+2374,Xamax,Romance
+2375,Xamax,Romance
+2376,Xamax,Romance
+2377,Xamax,Romance
+2378,FC Lausanne-Sport,Romance
+2379,Xamax,Romance
+2380,Xamax,Romance
+2381,Xamax,Romance
+2382,Xamax,Romance
+2383,Xamax,Romance
+2384,Xamax,Romance
+2385,Xamax,Romance
+2386,FC Lausanne-Sport,Romance
+2387,FC Lausanne-Sport,Romance
+2388,Servette FC,Romance
+2389,Servette FC,Romance
+2390,Servette FC,Romance
+2391,Servette FC,Romance
+2392,Servette FC,Romance
+2393,Servette FC,Romance
+2394,Servette FC,Romance
+2395,Servette FC,Romance
+2396,Servette FC,Romance
+2397,Servette FC,Romance
+2398,FC Lausanne-Sport,Romance
+2399,FC Lausanne-Sport,Romance
+2400,FC Lausanne-Sport,Romance
+2401,FC Lausanne-Sport,Romance
+2402,FC Lausanne-Sport,Romance
+2403,FC Lausanne-Sport,Romance
+2404,FC Lausanne-Sport,Romance
+2405,FC Lausanne-Sport,Romance
+2406,FC Lausanne-Sport,Romance
+2407,FC Lausanne-Sport,Romance
+2408,FC Lausanne-Sport,Romance
+2409,FC Lausanne-Sport,Romance
+2410,FC Lausanne-Sport,Romance
+2411,CD Toledo,Romance
+2412,FC Elche,Romance
+2413,R. Majadahonda,Romance
+2414,Badajoz 1905,Romance
+2415,Boca Juniors,Romance
+2416,Zamora,Romance
+2417,Dep. Alavés,Romance
+2418,CD Toledo,Romance
+2419,Rayo Vallecano,Romance
+2420,Rac. Santander,Romance
+2421,Newell's II,Romance
+2422,FC Girona,Romance
+2423,Sport. Cristal,Romance
+2424,Táchira,Romance
+2425,FC Málaga,Romance
+2426,Zamora,Romance
+2427,Zamora,Romance
+2428,Guarani,Romance
+2429,UD San Fernando,Romance
+2430,Petrolul,Romance
+2431,Rapid Bukarest,Romance
+2432,FC Wil 1900,Germanic
+2433,FC Basel U21,Germanic
+2434,FC Basel,Germanic
+2435,FC Basel,Germanic
+2436,FC Aarau,Germanic
+2437,FC Aarau,Germanic
+2438,FC Aarau,Germanic
+2439,FC Aarau,Germanic
+2440,FC Luzern,Germanic
+2441,FC Luzern,Germanic
+2442,SC YF Juventus,Germanic
+2443,Rapperswil-Jona,Germanic
+2444,FC St. Gallen,Germanic
+2445,FC St. Gallen,Germanic
+2446,BSC Young Boys,Germanic
+2447,BSC Young Boys,Germanic
+2448,BSC Young Boys,Germanic
+2449,BSC Young Boys,Germanic
+2450,BSC Young Boys,Germanic
+2451,Grasshoppers,Germanic
+2452,Grasshoppers,Germanic
+2453,MSV Duisburg,Germanic
+2454,FC Zürich U21,Germanic
+2455,SC Kriens,Germanic
+2456,FC Biel-Bienne,Germanic
+2457,FC Biel-Bienne,Germanic
+2458,Bor. M'gladbach,Germanic
+2459,Grasshopper Club Zürich,Germanic
+2460,Grasshopper Club Zürich,Germanic
+2461,FC Wil 1900,Germanic
+2462,FC Basel U21,Germanic
+2463,FC Basel U21,Germanic
+2464,FC Basel,Germanic
+2465,FC Basel,Germanic
+2466,FC Basel,Germanic
+2467,FC Aarau,Germanic
+2468,FC Aarau,Germanic
+2469,FC Luzern,Germanic
+2470,FC Luzern,Germanic
+2471,FC Luzern,Germanic
+2472,FC Thun,Germanic
+2473,FC Thun,Germanic
+2474,FC Thun,Germanic
+2475,Rapperswil-Jona,Germanic
+2476,FC St. Gallen,Germanic
+2477,FC St. Gallen,Germanic
+2478,FC Zürich,Germanic
+2479,BSC Young Boys,Germanic
+2480,BSC Young Boys,Germanic
+2481,BSC Young Boys,Germanic
+2482,Grasshoppers,Germanic
+2483,Grasshoppers,Germanic
+2484,FC Vaduz,Germanic
+2485,BSC YB U21,Germanic
+2486,FC Biel-Bienne,Germanic
+2487,FC Biel-Bienne,Germanic
+2488,FC Biel-Bienne,Germanic
+2489,Thun U21,Germanic
+2490,United Zürich,Germanic
+2491,FC Wil 1900,Germanic
+2492,FC Basel,Germanic
+2493,FC Luzern,Germanic
+2494,FC Luzern,Germanic
+2495,FC Thun,Germanic
+2496,FC Thun,Germanic
+2497,FC St. Gallen,Germanic
+2498,FC St. Gallen,Germanic
+2499,FC St. Gallen,Germanic
+2500,FC St. Gallen,Germanic
+2501,FC Schaffhausen,Germanic
+2502,FC Schaffhausen,Germanic
+2503,FC Zürich,Germanic
+2504,FC Zürich,Germanic
+2505,VfB Stuttgart,Germanic
+2506,VfB Stuttgart,Germanic
+2507,BSC Young Boys,Germanic
+2508,FC Winterthur,Germanic
+2509,Grasshoppers,Germanic
+2510,Grasshoppers,Germanic
+2511,FC Vaduz,Germanic
+2512,BSC YB U21,Germanic
+2513,FC Wohlen,Germanic
+2514,SC Freiburg,Germanic
+2515,St. Gallen U21,Germanic
+2516,Grasshopper Club Zürich,Germanic
+2517,Grasshopper Club Zürich,Germanic
+2518,FC Wil 1900,Germanic
+2519,FC Basel U21,Germanic
+2520,FC Basel,Germanic
+2521,FC Basel,Germanic
+2522,FC Basel,Germanic
+2523,FC Aarau,Germanic
+2524,FC Aarau,Germanic
+2525,FC Aarau,Germanic
+2526,FC Aarau,Germanic
+2527,FC Aarau,Germanic
+2528,FC Luzern,Germanic
+2529,Rapperswil-Jona,Germanic
+2530,FC St. Gallen,Germanic
+2531,FC Schaffhausen,Germanic
+2532,FC Zürich,Germanic
+2533,FC Zürich,Germanic
+2534,BSC Young Boys,Germanic
+2535,BSC Young Boys,Germanic
+2536,BSC Young Boys,Germanic
+2537,BSC Young Boys,Germanic
+2538,BSC Young Boys,Germanic
+2539,BSC Young Boys,Germanic
+2540,BSC Young Boys,Germanic
+2541,FC Winterthur,Germanic
+2542,Grasshoppers,Germanic
+2543,FC Vaduz,Germanic
+2544,FC Zürich U21,Germanic
+2545,FC Zürich U21,Germanic
+2546,FC Wohlen,Germanic
+2547,FC Wohlen,Germanic
+2548,FC Biel-Bienne,Germanic
+2549,FC Biel-Bienne,Germanic
+2550,FC Biel-Bienne,Germanic
+2551,FC Biel-Bienne,Germanic
+2552,FC Biel-Bienne,Germanic
+2553,FC Biel-Bienne,Germanic
+2554,FC Biel-Bienne,Germanic
+2555,FC Biel-Bienne,Germanic
+2556,FC Biel-Bienne,Germanic
+2557,Grasshopper Club Zürich,Germanic
+2558,Grasshopper Club Zürich,Germanic
+2559,Hoffenheim II,Germanic
+2560,FC Sursee,Germanic
+2561,FC Basel,Germanic
+2562,FC Zürich,Germanic
+2563,Grasshopper Club Zürich,Germanic
+2564,FC Aarau,Germanic
+2565,Grasshopper Club Zürich,Germanic
+2566,BSC Young Boys,Germanic
+2567,BSC Young Boys,Germanic
+2568,BSC Young Boys,Germanic
+2569,FC Basel,Germanic
+2570,FC Basel,Germanic
+2571,FC Basel,Germanic
+2572,FC Aarau,Germanic
+2573,FC Aarau,Germanic
+2574,FC Luzern,Germanic
+2575,FC Luzern,Germanic
+2576,FC Luzern,Germanic
+2577,FC Thun,Germanic
+2578,FC Thun,Germanic
+2579,FC Thun,Germanic
+2580,FC St. Gallen,Germanic
+2581,FC St. Gallen,Germanic
+2582,FC Zürich,Germanic
+2583,BSC Young Boys,Germanic
+2584,BSC Young Boys,Germanic
+2585,BSC Young Boys,Germanic
+2586,FC Vaduz,Germanic
+2587,Grasshopper Club Zürich,Germanic
+2588,Grasshopper Club Zürich,Germanic
+2589,FC Basel,Germanic
+2590,FC Aarau,Germanic
+2591,FC Aarau,Germanic
+2592,FC Aarau,Germanic
+2593,FC Aarau,Germanic
+2594,FC Aarau,Germanic
+2595,FC Luzern,Germanic
+2596,FC Luzern,Germanic
+2597,FC Zürich,Germanic
+2598,FC Zürich,Germanic
+2599,BSC Young Boys,Germanic
+2600,FC Vaduz,Germanic
+2601,FC Vaduz,Germanic
+2602,FC Basel,Germanic
+2603,FC Zürich,Germanic
+2604,FC Zürich,Germanic
+2605,FC Basel,Germanic
+2606,FC Basel,Germanic
+2607,BSC Young Boys,Germanic
+2608,FC Basel,Germanic
+2609,FC St. Gallen,Germanic
+2610,FC Zürich,Germanic
+2611,Grasshopper Club Zürich,Germanic
+2612,FC Basel,Germanic
+2613,FC Basel,Germanic
+2614,FC Thun,Germanic
+2615,FC St. Gallen,Germanic
+2616,FC Zürich,Germanic
+2617,FC Basel,Germanic
+2618,FC Aarau,Germanic
+2619,FC Aarau,Germanic
+2620,FC St. Gallen,Germanic
+2621,BSC Young Boys,Germanic
+2622,FC Vaduz,Germanic
+2623,FC Luzern,Germanic
+2624,FC Luzern,Germanic
+2625,FC St. Gallen,Germanic
+2626,BSC Young Boys,Germanic
+2627,FC Luzern,Germanic
+2628,FC Thun,Germanic
+2629,FC Thun,Germanic
+2630,FC St. Gallen,Germanic
+2631,FC St. Gallen,Germanic
+2632,FC St. Gallen,Germanic
+2633,FC St. Gallen,Germanic
+2634,FC Zürich,Germanic
+2635,FC Zürich,Germanic
+2636,FC Zürich,Germanic
+2637,BSC Young Boys,Germanic
+2638,BSC Young Boys,Germanic
+2639,BSC Young Boys,Germanic
+2640,BSC Young Boys,Germanic
+2641,BSC Young Boys,Germanic
+2642,BSC Young Boys,Germanic
+2643,Grasshopper Club Zürich,Germanic
+2644,Grasshopper Club Zürich,Germanic
+2645,Grasshopper Club Zürich,Germanic
+2646,Grasshopper Club Zürich,Germanic
+2647,Ross County,Germanic
+2648,Ross County,Germanic
+2649,Wrexham,Germanic
+2650,Arsenal FC II,Germanic
+2651,Fulham U23,Germanic
+2652,Chicago Fire,Germanic
+2653,Wigan U23,Germanic
+2654,FC Barnsley,Germanic
+2655,Arsenal U23,Germanic
+2656,Revolution,Germanic
+2657,Revolution,Germanic
+2658,Heart of Midl.,Germanic
+2659,FC Fulham,Germanic
+2660,FC Fulham,Germanic
+2661,Adelaide United,Germanic
+2662,FC Reading,Germanic
+2663,Glasgow Rangers,Germanic
+2664,Melbourne Vict.,Germanic
+2665,West Ham U23,Germanic
+2666,Tromsø IL,Germanic
+2667,Apollon Smyrnis,Hellenic
+2668,AE Larisa,Hellenic
+2669,APOEL Nikosia,Hellenic
+2670,Olymp. Piräus,Hellenic
+2671,Omonia Nikosia,Hellenic
+2672,Napredak,Slavic
+2673,Radnik,Slavic
+2674,OFK Belgrad U19,Slavic
+2675,ND Gorica,Slavic
+2676,Anzhi,Slavic
+2677,Spartak Moskau,Slavic
+2678,FK Krasnodar,Slavic
+2679,Spartaks,Slavic
+2680,Slavia Prag,Slavic
+2681,Sparta Prag,Slavic
+2682,Slask Wroclaw,Slavic
+2683,Zeljeznicar,Slavic
+2684,Slaven Belupo,Slavic
+2685,Vereinslos,Vereinslos
+2686,Vereinslos,Vereinslos
+2687,Vereinslos,Vereinslos
+2688,Vereinslos,Vereinslos
+2689,Vereinslos,Vereinslos
+2690,Vereinslos,Vereinslos
+2691,Vereinslos,Vereinslos
+2692,Vereinslos,Vereinslos
+2693,Vereinslos,Vereinslos
+2694,Vereinslos,Vereinslos
+2695,Vereinslos,Vereinslos
+2696,Vereinslos,Vereinslos
+2697,Vereinslos,Vereinslos
+2698,Vereinslos,Vereinslos
+2699,Vereinslos,Vereinslos
+2700,Vereinslos,Vereinslos
+2701,Vereinslos,Vereinslos
+2702,Vereinslos,Vereinslos
+2703,Vereinslos,Vereinslos
+2704,Vereinslos,Vereinslos
+2705,Vereinslos,Vereinslos
+2706,Vereinslos,Vereinslos
+2707,Vereinslos,Vereinslos
+2708,Vereinslos,Vereinslos
+2709,Vereinslos,Vereinslos
+2710,Vereinslos,Vereinslos
+2711,Vereinslos,Vereinslos
+2712,Vereinslos,Vereinslos
+2713,Vereinslos,Vereinslos
+2714,Vereinslos,Vereinslos
+2715,Vereinslos,Vereinslos
+2716,Umm Salal SC,Semitic
+2717,Bnei Yehuda,Semitic
+2718,Bnei Yehuda,Semitic
+2719,Hapoel Akko,Semitic
+2720,Shonan Bellmare,Japonic
+2721,FK Ventspils,Baltic
+2722,RFS,Baltic
+2723,Kayserispor,Turkic
+2724,Fenerbahce,Turkic
+2725,Konyaspor,Turkic
+2726,MZ Hakka,Sinitic
+2727,JX Liansheng,Sinitic
+2728,HN Jianye,Sinitic
+2729,pausiert,pausiert
+2730,FC Haka,Finnic
+2731,HJK Helsinki,Finnic
+2732,Haladás,Ugric
+2733,Honvéd,Ugric
+2734,Liberty Prof.,Afric
+2735,KF Feronikeli,Albanian
+2736,FK Partizani,Albanian
+2737,Suwon Bluewings,Japonic
+2738,Unbekannt,Unbekannt
+2739,FC Porto B,Romance
+2740,Botafogo,Romance
+2741,CRB,Romance
+2742,Coritiba FC,Romance
+2743,Udinese Calcio,Romance
+2744,FC Chiasso,Romance
+2745,FC Chiasso,Romance
+2746,FC Chiasso,Romance
+2747,FC Chiasso,Romance
+2748,FC Chiasso,Romance
+2749,FC Chiasso,Romance
+2750,FC Chiasso,Romance
+2751,FC Chiasso,Romance
+2752,FC Chiasso,Romance
+2753,FC Chiasso,Romance
+2754,FC Chiasso,Romance
+2755,FC Chiasso,Romance
+2756,FC Chiasso,Romance
+2757,FC Chiasso,Romance
+2758,FC Chiasso,Romance
+2759,FC Chiasso,Romance
+2760,FC Lugano,Romance
+2761,FC Lugano,Romance
+2762,FC Lugano,Romance
+2763,FC Lugano,Romance
+2764,FC Lugano U21,Romance
+2765,FC Lugano U21,Romance
+2766,FC Lugano U21,Romance
+2767,FC Lugano U21,Romance
+2768,FC Lugano U21,Romance
+2769,FC Lugano U21,Romance
+2770,FC Lugano U21,Romance
+2771,FC Lugano U21,Romance
+2772,FC Lugano U21,Romance
+2773,FC Lugano U21,Romance
+2774,Milano City,Romance
+2775,San Lorenzo II,Romance
+2776,FC Mendrisio,Romance
+2777,FC Mendrisio,Romance
+2778,FC Mendrisio,Romance
+2779,FC Mendrisio,Romance
+2780,FC Mendrisio,Romance
+2781,FC Mendrisio,Romance
+2782,Rapid Lugano,Romance
+2783,Losone,Romance
+2784,Losone,Romance
+2785,Team Ticino U18,Romance
+2786,Team Ticino U18,Romance
+2787,Team Ticino U18,Romance
+2788,Team Ticino U18,Romance
+2789,Team Ticino U18,Romance
+2790,Team Ticino U18,Romance
+2791,Team Ticino U18,Romance
+2792,Team Ticino U18,Romance
+2793,Team Ticino U18,Romance
+2794,FC Paradiso,Romance
+2795,AC Bellinzona U18,Romance
+2796,FC Cadenazzo,Romance
+2797,FC Locarno,Romance
+2798,FC Locarno,Romance
+2799,FC Locarno,Romance
+2800,FC Locarno,Romance
+2801,FC Locarno,Romance
+2802,FC Locarno,Romance
+2803,FC Locarno,Romance
+2804,FC Locarno,Romance
+2805,FC Locarno,Romance
+2806,FC Locarno,Romance
+2807,FC Locarno,Romance
+2808,FC Locarno,Romance
+2809,Novara U19,Romance
+2810,Bellinzona Jgd.,Romance
+2811,Bellinzona Jgd.,Romance
+2812,Bellinzona Jgd.,Romance
+2813,Bellinzona Jgd.,Romance
+2814,Varese,Romance
+2815, AS Castello,Romance
+2816,US Giubiasco,Romance
+2817,US Giubiasco,Romance
+2818,FC Ascona,Romance
+2819,FC Ascona,Romance
+2820,FC Ascona,Romance
+2821,FC Ascona,Romance
+2822,AC Sementina,Romance
+2823,AC Sementina,Romance
+2824,AC Vallemaggia,Romance
+2825,AC Taverne,Romance
+2826,GC Biaschesi,Romance
+2827,GC Biaschesi,Romance
+2828,FC Fidene,Romance
+2829,AC Perugia,Romance
+2830,Udinese Calcio,Romance
+2831,AS Rom,Romance
+2832,Inter Mailand,Romance
+2833,Delfino Pescara,Romance
+2834,FC Chiasso,Romance
+2835,FC Chiasso,Romance
+2836,FC Chiasso,Romance
+2837,FC Chiasso,Romance
+2838,FC Chiasso,Romance
+2839,FC Chiasso,Romance
+2840,FC Chiasso,Romance
+2841,FC Chiasso,Romance
+2842,FC Chiasso,Romance
+2843,FC Chiasso,Romance
+2844,FC Chiasso,Romance
+2845,FC Chiasso,Romance
+2846,FC Empoli,Romance
+2847,Novara Calcio,Romance
+2848,Novara Calcio,Romance
+2849,AC Bellinzona,Romance
+2850,AC Bellinzona,Romance
+2851,AC Bellinzona,Romance
+2852,AC Bellinzona,Romance
+2853,US Palermo,Romance
+2854,Juventus U23,Romance
+2855,Juventus U23,Romance
+2856,Juventus U23,Romance
+2857,Juventus U23,Romance
+2858,Ternana,Romance
+2859,AC Mailand,Romance
+2860,Chievo Verona,Romance
+2861,Chievo Verona,Romance
+2862,AC Mailand U19,Romance
+2863,Sampdoria,Romance
+2864,Sampdoria,Romance
+2865,FC Lugano U21,Romance
+2866,FC Lugano U21,Romance
+2867,FC Lugano U21,Romance
+2868,FC Lugano U21,Romance
+2869,FC Lugano U21,Romance
+2870,FC Lugano U21,Romance
+2871,FC Lugano U21,Romance
+2872,FC Lugano U21,Romance
+2873,FC Lugano U21,Romance
+2874,FC Lugano U21,Romance
+2875,FC Lugano U21,Romance
+2876,FC Lugano U21,Romance
+2877,FC Lugano U21,Romance
+2878,FC Lugano U21,Romance
+2879,FC Mendrisio,Romance
+2880,FC Mendrisio,Romance
+2881,Team Ticino U18,Romance
+2882,Team Ticino U18,Romance
+2883,Team Ticino U18,Romance
+2884,FC Locarno,Romance
+2885,FC Locarno,Romance
+2886,AC Taverne,Romance
+2887,FC Bologna,Romance
+2888,FC Bologna,Romance
+2889,Juventus Turin,Romance
+2890,Juventus Turin,Romance
+2891,Juventus Turin,Romance
+2892,Juventus Turin,Romance
+2893,Juventus Turin,Romance
+2894,Juventus Turin,Romance
+2895,Chieti,Romance
+2896,Genua CFC,Romance
+2897,Genua CFC,Romance
+2898,Genua CFC,Romance
+2899,Genua CFC,Romance
+2900,Genua CFC,Romance
+2901,Genua CFC,Romance
+2902,US Sassuolo,Romance
+2903,Bisceglie,Romance
+2904,Piacenza,Romance
+2905,Atal. Bergamo,Romance
+2906,AC Pisa,Romance
+2907,LR Vicenza,Romance
+2908,LR Vicenza,Romance
+2909,Empoli U19,Romance
+2910,Sampdoria U19,Romance
+2911,Spezia Calcio,Romance
+2912,Spezia Calcio,Romance
+2913,Spezia Calcio,Romance
+2914,Vicenza,Romance
+2915,Vicenza,Romance
+2916,Union Ripa,Romance
+2917,Clodiense,Romance
+2918,Atalanta U19,Romance
+2919,Hellas Verona,Romance
+2920,Calcio Como,Romance
+2921,Arzanese,Romance
+2922,Brescia,Romance
+2923,Pergolettese,Romance
+2924,Giulianova,Romance
+2925,Casale,Romance
+2926,FC Lugano,Romance
+2927,FC Lugano,Romance
+2928,FC Lugano,Romance
+2929,FC Lugano,Romance
+2930,FC Lugano,Romance
+2931,FC Lugano,Romance
+2932,FC Lugano,Romance
+2933,FC Lugano,Romance
+2934,FC Lugano,Romance
+2935,FC Lugano,Romance
+2936,FC Lugano,Romance
+2937,FC Lugano,Romance
+2938,FC Lugano,Romance
+2939,FC Lugano,Romance
+2940,FC Lugano,Romance
+2941,FC Lugano,Romance
+2942,FC Lugano,Romance
+2943,FC Lugano,Romance
+2944,FC Lugano,Romance
+2945,FC Lugano,Romance
+2946,FC Lugano,Romance
+2947,FC Lugano,Romance
+2948,FC Lugano,Romance
+2949,FC Lugano,Romance
+2950,FC Lugano,Romance
+2951,FC Lugano,Romance
+2952,AC Bellinzona,Romance
+2953,AC Bellinzona,Romance
+2954,AC Bellinzona,Romance
+2955,AC Bellinzona,Romance
+2956,AC Bellinzona,Romance
+2957,AC Bellinzona,Romance
+2958,AC Bellinzona,Romance
+2959,AC Bellinzona,Romance
+2960,AC Bellinzona,Romance
+2961,AC Bellinzona,Romance
+2962,AC Bellinzona,Romance
+2963,AC Bellinzona,Romance
+2964,FC Lugano,Romance
+2965,FC Lugano,Romance
+2966,FC Lugano,Romance
+2967,AC Bellinzona,Romance
+2968,AC Bellinzona,Romance
+2969,AC Bellinzona,Romance
+2970,AC Bellinzona,Romance
+2971,AC Bellinzona,Romance
+2972,AC Bellinzona,Romance
+2973,FC Lugano,Romance
+2974,AC Bellinzona,Romance
+2975,AC Bellinzona,Romance
+2976,AC Bellinzona,Romance
+2977,AC Bellinzona,Romance
+2978,FC Lugano,Romance
+2979,FC Lugano,Romance
+2980,FC Lugano,Romance
+2981,FC Lugano,Romance
+2982,FC Lugano,Romance
+2983,FC Lugano,Romance
+2984,FC Lugano,Romance
+2985,FC Lugano,Romance
+2986,FC Lugano,Romance
+2987,FC Lugano,Romance
+2988,FC Lugano,Romance
+2989,FC Lugano,Romance
+2990,FC Lugano,Romance
+2991,FC Lugano,Romance
+2992,FC Lugano,Romance
+2993,FC Lugano,Romance
+2994,FC Lugano,Romance
+2995,FC Lugano,Romance
+2996,FC Lugano,Romance
+2997,AC Bellinzona,Romance
+2998,AC Bellinzona,Romance
+2999,AC Bellinzona,Romance
+3000,AC Bellinzona,Romance
+3001,AC Bellinzona,Romance
+3002,AC Bellinzona,Romance
+3003,FC Lugano,Romance
+3004,FC Lugano,Romance
+3005,FC Lugano,Romance
+3006,AC Bellinzona,Romance
+3007,AC Bellinzona,Romance
+3008,AC Bellinzona,Romance
+3009,AC Bellinzona,Romance
+3010,FC Lugano,Romance
+3011,FC Lugano,Romance
+3012,FC Lugano,Romance
+3013,FC Lugano,Romance
+3014,FC Lugano,Romance
+3015,FC Lugano,Romance
+3016,FC Lugano,Romance
+3017,AC Bellinzona,Romance
+3018,AC Bellinzona,Romance
+3019,FC Lugano,Romance
+3020,FC Lugano,Romance
+3021,FC Lugano,Romance
+3022,FC Lugano,Romance
+3023,AC Bellinzona,Romance
+3024,AC Bellinzona,Romance
+3025,AC Bellinzona,Romance
+3026,AC Bellinzona,Romance
+3027,AC Bellinzona,Romance
+3028,AC Bellinzona,Romance
+3029,AC Bellinzona,Romance
+3030,AC Bellinzona,Romance
+3031,AC Bellinzona,Romance
+3032,AC Bellinzona,Romance
+3033,AC Bellinzona,Romance
+3034,AC Bellinzona,Romance
+3035,AC Bellinzona,Romance
+3036,AC Bellinzona,Romance
+3037,AC Bellinzona,Romance
+3038,AC Bellinzona,Romance
+3039,AC Bellinzona,Romance
+3040,AC Bellinzona,Romance
+3041,AC Bellinzona,Romance
+3042,AC Bellinzona,Romance
+3043,AC Bellinzona,Romance
+3044,AC Bellinzona,Romance
+3045,AC Bellinzona,Romance
+3046,AC Bellinzona,Romance
+3047,AC Bellinzona,Romance
+3048,AC Bellinzona,Romance
+3049,AC Bellinzona,Romance
+3050,AC Bellinzona,Romance
+3051,AC Bellinzona,Romance
+3052,AC Bellinzona,Romance
+3053,AC Bellinzona,Romance
+3054,AC Bellinzona,Romance
+3055,AC Bellinzona,Romance
+3056,AC Bellinzona,Romance
+3057,AC Bellinzona,Romance
+3058,AC Bellinzona,Romance
+3059,AC Bellinzona,Romance
+3060,AC Bellinzona,Romance
+3061,AC Bellinzona,Romance
+3062,AC Bellinzona,Romance
+3063,AC Bellinzona,Romance
+3064,AC Bellinzona,Romance
+3065,AC Bellinzona,Romance
+3066,AC Bellinzona,Romance
+3067,AC Bellinzona,Romance
+3068,AC Bellinzona,Romance
+3069,FC Sion,Romance
+3070,FC Sion,Romance
+3071,FC Sion,Romance
+3072,FC Sion,Romance
+3073,FC Sion,Romance
+3074,Xamax,Romance
+3075,FC Sion U21,Romance
+3076,Olymp. Genève,Romance
+3077,FC Monthey,Romance
+3078,Yverdon-Sport,Romance
+3079,Team Vaud U21,Romance
+3080,Stade Nyonnais,Romance
+3081,FC Sion,Romance
+3082,FC Sion,Romance
+3083,FC Sion,Romance
+3084,Xamax,Romance
+3085,Servette FC,Romance
+3086,Etoile Carouge,Romance
+3087,Stade Nyonnais,Romance
+3088,Stade Nyonnais,Romance
+3089,KSC Lokeren,Romance
+3090,ES Zarzis,Romance
+3091,FC Sion,Romance
+3092,FC Lausanne-Sport,Romance
+3093,FC Sion,Romance
+3094,FC Sion,Romance
+3095,FC Sion,Romance
+3096,FC Sion,Romance
+3097,FC Sion,Romance
+3098,FC Sion,Romance
+3099,FC Sion,Romance
+3100,FC Sion,Romance
+3101,FC Sion,Romance
+3102,Servette FC,Romance
+3103,Servette FC,Romance
+3104,Servette FC,Romance
+3105,FC Lausanne-Sport,Romance
+3106,FC Lausanne-Sport,Romance
+3107,FC Sion,Romance
+3108,FC Sion,Romance
+3109,FC Sion,Romance
+3110,FC Sion,Romance
+3111,FC Lausanne-Sport,Romance
+3112,FC Lausanne-Sport,Romance
+3113,Xamax,Romance
+3114,Xamax,Romance
+3115,Servette FC,Romance
+3116,FC Lausanne-Sport,Romance
+3117,FC Lausanne-Sport,Romance
+3118,Servette FC,Romance
+3119,Servette FC,Romance
+3120,FC Lausanne-Sport,Romance
+3121,FC Lausanne-Sport,Romance
+3122,Peñarol,Romance
+3123,Rampla Jrs,Romance
+3124,Argentina,Romance
+3125,Racing Club,Romance
+3126,Vélez II,Romance
+3127,Vélez U20,Romance
+3128,Valencia B,Romance
+3129,UD Levante,Romance
+3130,Nacional,Romance
+3131,Nacional,Romance
+3132,Danubio FC,Romance
+3133,Defensor,Romance
+3134,Irapuato,Romance
+3135,Iskra-Stali,Romance
+3136,FC Wil 1900,Germanic
+3137,FC Wil 1900,Germanic
+3138,FC Wil 1900,Germanic
+3139,FC Basel,Germanic
+3140,FC Basel,Germanic
+3141,FC Basel,Germanic
+3142,FC Aarau,Germanic
+3143,FC Luzern,Germanic
+3144,FC Luzern,Germanic
+3145,FC Luzern,Germanic
+3146,FC Luzern,Germanic
+3147,FC Thun,Germanic
+3148,FC Thun,Germanic
+3149,Rapperswil-Jona,Germanic
+3150,FC St. Gallen,Germanic
+3151,FC Schaffhausen,Germanic
+3152,FC Schaffhausen,Germanic
+3153,FC Zürich,Germanic
+3154,FC Zürich,Germanic
+3155,FC Zürich,Germanic
+3156,FC Zürich,Germanic
+3157,FC Winterthur,Germanic
+3158,Grasshoppers,Germanic
+3159,Grasshoppers,Germanic
+3160,Grasshoppers,Germanic
+3161,Grasshoppers,Germanic
+3162,Grasshoppers,Germanic
+3163,SC Kriens,Germanic
+3164,BSC YB U21,Germanic
+3165,FC Wohlen,Germanic
+3166,FC Köniz,Germanic
+3167,St. Gallen U21,Germanic
+3168,Grasshopper Club Zürich,Germanic
+3169,Grasshopper Club Zürich,Germanic
+3170,Grasshopper Club Zürich,Germanic
+3171,Grasshopper Club Zürich,Germanic
+3172,Grasshopper Club Zürich,Germanic
+3173,Rappi Jugend,Germanic
+3174,FC Baden,Germanic
+3175,FC Wil 1900,Germanic
+3176,FC Wil 1900,Germanic
+3177,FC Wil 1900,Germanic
+3178,FC Wil 1900,Germanic
+3179,FC Wil 1900,Germanic
+3180,FC Basel U21,Germanic
+3181,FC Basel,Germanic
+3182,FC Basel,Germanic
+3183,FC Aarau,Germanic
+3184,FC Luzern,Germanic
+3185,FC Luzern,Germanic
+3186,FC Thun,Germanic
+3187,FC Thun,Germanic
+3188,Rapperswil-Jona,Germanic
+3189,FC Schaffhausen,Germanic
+3190,FC Schaffhausen,Germanic
+3191,FC Schaffhausen,Germanic
+3192,FC Zürich,Germanic
+3193,FC Zürich,Germanic
+3194,FC Zürich,Germanic
+3195,FC Zürich,Germanic
+3196,FC Zürich,Germanic
+3197,FC Zürich,Germanic
+3198,BSC Young Boys,Germanic
+3199,BSC Young Boys,Germanic
+3200,BSC Young Boys,Germanic
+3201,Grasshoppers,Germanic
+3202,Grasshoppers,Germanic
+3203,Grasshoppers,Germanic
+3204,Grasshoppers,Germanic
+3205,Grasshoppers,Germanic
+3206,Grasshoppers,Germanic
+3207,Grasshoppers,Germanic
+3208,SC Kriens,Germanic
+3209,BSC YB U21,Germanic
+3210,BSC YB U21,Germanic
+3211,FC Wohlen,Germanic
+3212,FC Wohlen,Germanic
+3213,FC Wohlen,Germanic
+3214,Sturm Graz,Germanic
+3215,Grasshopper Club Zürich,Germanic
+3216,Grasshopper Club Zürich,Germanic
+3217,Grasshopper Club Zürich,Germanic
+3218,Grasshopper Club Zürich,Germanic
+3219,Grasshopper Club Zürich,Germanic
+3220,Grasshopper Club Zürich,Germanic
+3221,Grasshopper Club Zürich,Germanic
+3222,GC Zürich U21,Germanic
+3223,United Zürich,Germanic
+3224,Karlsruher SC,Germanic
+3225,Schwamendingen,Germanic
+3226,SC Brühl SG,Germanic
+3227,K. Offenbach,Germanic
+3228,FC Basel,Germanic
+3229,FC Basel,Germanic
+3230,FC Aarau,Germanic
+3231,FC Aarau,Germanic
+3232,FC Aarau,Germanic
+3233,FC Aarau,Germanic
+3234,FC Aarau,Germanic
+3235,FC Luzern,Germanic
+3236,FC Luzern,Germanic
+3237,FC St. Gallen,Germanic
+3238,FC St. Gallen,Germanic
+3239,FC St. Gallen,Germanic
+3240,FC St. Gallen,Germanic
+3241,FC St. Gallen,Germanic
+3242,FC St. Gallen,Germanic
+3243,FC Zürich,Germanic
+3244,FC Zürich,Germanic
+3245,BSC Young Boys,Germanic
+3246,FC Vaduz,Germanic
+3247,FC Vaduz,Germanic
+3248,FC Luzern,Germanic
+3249,FC St. Gallen,Germanic
+3250,FC Basel,Germanic
+3251,Grasshopper Club Zürich,Germanic
+3252,Grasshopper Club Zürich,Germanic
+3253,FC Basel,Germanic
+3254,BSC Young Boys,Germanic
+3255,FC Basel,Germanic
+3256,FC Basel,Germanic
+3257,FC Vaduz,Germanic
+3258,FC Vaduz,Germanic
+3259,Grasshopper Club Zürich,Germanic
+3260,FC Aarau,Germanic
+3261,FC St. Gallen,Germanic
+3262,FC Zürich,Germanic
+3263,FC Luzern,Germanic
+3264,FC Luzern,Germanic
+3265,FC Zürich,Germanic
+3266,FC Luzern,Germanic
+3267,FC Luzern,Germanic
+3268,FC St. Gallen,Germanic
+3269,FC Zürich,Germanic
+3270,FC Zürich,Germanic
+3271,FC St. Gallen,Germanic
+3272,FC Zürich,Germanic
+3273,FC Zürich,Germanic
+3274,BSC Young Boys,Germanic
+3275,BSC Young Boys,Germanic
+3276,BSC Young Boys,Germanic
+3277,Grasshopper Club Zürich,Germanic
+3278,Grasshopper Club Zürich,Germanic
+3279,Eastern Sub.,Germanic
+3280,Sunshine Stars,Germanic
+3281,Flying Sports,Germanic
+3282,Port Vale,Germanic
+3283,Liverpool FC,Germanic
+3284,Dalkurd FF,Germanic
+3285,Panathinaikos,Hellenic
+3286,Jagodina,Slavic
+3287,Mladost,Slavic
+3288,FK Indjija,Slavic
+3289,FC Koper,Slavic
+3290,Spartaks,Slavic
+3291,Ural,Slavic
+3292,Sparta Prag,Slavic
+3293,Cracovia ,Slavic
+3294,Sopot,Slavic
+3295,HNK Rijeka,Slavic
+3296,HNK Rijeka,Slavic
+3297,HNK Rijeka,Slavic
+3298,Hajduk Split,Slavic
+3299,NK Zagreb,Slavic
+3300,Akad. Pandev,Slavic
+3301,Vereinslos,Vereinslos
+3302,Vereinslos,Vereinslos
+3303,Vereinslos,Vereinslos
+3304,Vereinslos,Vereinslos
+3305,Vereinslos,Vereinslos
+3306,Vereinslos,Vereinslos
+3307,Vereinslos,Vereinslos
+3308,Vereinslos,Vereinslos
+3309,Vereinslos,Vereinslos
+3310,Vereinslos,Vereinslos
+3311,Vereinslos,Vereinslos
+3312,Vereinslos,Vereinslos
+3313,Vereinslos,Vereinslos
+3314,Vereinslos,Vereinslos
+3315,Vereinslos,Vereinslos
+3316,Vereinslos,Vereinslos
+3317,Kiryat Shmona,Semitic
+3318,pausiert,pausiert
+3319,HJK Helsinki,Finnic
+3320,Honvéd,Ugric
+3321,FC Drita,Albanian
+3322,KF Vllaznia,Albanian
+3323,Sliema Wander.,Semitic
+3324,FC Astana,Turkic
+3325,Unbekannt,Unbekannt
+3326,Unbekannt,Unbekannt
+3327,Unbekannt,Unbekannt
+3328,Unbekannt,Unbekannt
+3329,Stallion FC,Unknown
+3330,FC Lugano,Romance
+3331,FC Sion,Romance
+3332,FC Basel,Germanic
+3333,FC Basel,Germanic
+3334,Grasshopper Club Zürich,Germanic
+3335,FC Aarau,Germanic
+3336,FC Luzern,Germanic
+3337,FC Thun,Germanic
+3338,FC Thun,Germanic
+3339,FC Vaduz,Germanic
+3340,FC Thun,Germanic
+3341,FC St. Gallen,Germanic
+3342,FC Zürich,Germanic
+3343,FC Zürich,Germanic
+3344,FC Vaduz,Germanic
+3345,FC Vaduz,Germanic
+3346,Grasshopper Club Zürich,Germanic
+3347,Grasshopper Club Zürich,Germanic
+3348,Grasshopper Club Zürich,Germanic
+3349,FC Lugano,Romance
+3350,FC Lugano,Romance
+3351,FC Lugano,Romance
+3352,FC Lugano,Romance
+3353,FC Sion,Romance
+3354,FC Sion,Romance
+3355,FC Sion,Romance
+3356,FC Sion,Romance
+3357,FC Sion,Romance
+3358,FC Sion,Romance
+3359,FC Sion,Romance
+3360,Xamax,Romance
+3361,Xamax,Romance
+3362,Servette FC,Romance
+3363,Servette FC,Romance
+3364,Servette FC,Romance
+3365,Servette FC,Romance
+3366,Servette FC,Romance
+3367,FC Lausanne-Sport,Romance
+3368,FC Lausanne-Sport,Romance
+3369,FC Basel,Germanic
+3370,Grasshopper Club Zürich,Germanic
+3371,FC St. Gallen,Germanic
+3372,FC Basel,Germanic
+3373,FC Basel,Germanic
+3374,BSC Young Boys,Germanic
+3375,FC Basel,Germanic
+3376,FC Basel,Germanic
+3377,FC Basel,Germanic
+3378,FC Basel,Germanic
+3379,FC Basel,Germanic
+3380,FC Basel,Germanic
+3381,FC Basel,Germanic
+3382,BSC Young Boys,Germanic
+3383,FC Basel,Germanic
+3384,FC Basel,Germanic
+3385,FC Basel,Germanic
+3386,FC Luzern,Germanic
+3387,FC Luzern,Germanic
+3388,FC Luzern,Germanic
+3389,FC Luzern,Germanic
+3390,FC Luzern,Germanic
+3391,FC Luzern,Germanic
+3392,BSC Young Boys,Germanic
+3393,FC Thun,Germanic
+3394,FC Thun,Germanic
+3395,FC Thun,Germanic
+3396,FC St. Gallen,Germanic
+3397,Grasshopper Club Zürich,Germanic
+3398,FC St. Gallen,Germanic
+3399,FC St. Gallen,Germanic
+3400,FC St. Gallen,Germanic
+3401,BSC Young Boys,Germanic
+3402,FC St. Gallen,Germanic
+3403,FC Zürich,Germanic
+3404,FC Zürich,Germanic
+3405,FC Zürich,Germanic
+3406,BSC Young Boys,Germanic
+3407,BSC Young Boys,Germanic
+3408,FC Vaduz,Germanic
+3409,FC Vaduz,Germanic
+3410,Grasshopper Club Zürich,Germanic
+3411,Grasshopper Club Zürich,Germanic
+3412,Grasshopper Club Zürich,Germanic
+3413,Grasshopper Club Zürich,Germanic
+3414,Grasshopper Club Zürich,Germanic
+3415,Grasshopper Club Zürich,Germanic
+3416,Grasshopper Club Zürich,Germanic
+3417,Grasshopper Club Zürich,Germanic
+3418,FC Lugano,Romance
+3419,FC Sion,Romance
+3420,Xamax,Romance
+3421,FC Lausanne-Sport,Romance
+3422,Grasshopper Club Zürich,Germanic
+3423,FC Basel,Germanic
+3424,FC Basel,Germanic
+3425,FC Aarau,Germanic
+3426,FC Aarau,Germanic
+3427,FC Zürich,Germanic
+3428,Grasshopper Club Zürich,Germanic
+3429,FC Lugano,Romance
+3430,FC Lugano,Romance
+3431,FC Lugano,Romance
+3432,FC Sion,Romance
+3433,FC Sion,Romance
+3434,FC Sion,Romance
+3435,FC Sion,Romance
+3436,FC Sion,Romance
+3437,FC Sion,Romance
+3438,FC Sion,Romance
+3439,FC Sion,Romance
+3440,FC Sion,Romance
+3441,Servette FC,Romance
+3442,Servette FC,Romance
+3443,Servette FC,Romance
+3444,FC Lausanne-Sport,Romance
+3445,FC Lausanne-Sport,Romance
+3446,FC Lausanne-Sport,Romance
+3447,FC Zürich,Germanic
+3448,FC Basel,Germanic
+3449,FC Basel,Germanic
+3450,FC Aarau,Germanic
+3451,FC Aarau,Germanic
+3452,FC Luzern,Germanic
+3453,FC Thun,Germanic
+3454,FC Thun,Germanic
+3455,FC St. Gallen,Germanic
+3456,FC St. Gallen,Germanic
+3457,FC Zürich,Germanic
+3458,FC Vaduz,Germanic
+3459,FC Vaduz,Germanic
+3460,Grasshopper Club Zürich,Germanic
+3461,FC Lugano,Romance
+3462,FC Lugano,Romance
+3463,FC Lugano,Romance
+3464,FC Sion,Romance
+3465,Servette FC,Romance
+3466,Servette FC,Romance
+3467,FC Lausanne-Sport,Romance
+3468,FC Basel,Germanic
+3469,FC Aarau,Germanic
+3470,FC Luzern,Germanic
+3471,Grasshopper Club Zürich,Germanic
+3472,FC Lugano,Romance
+3473,FC Lugano,Romance
+3474,FC Lugano,Romance
+3475,FC Lugano,Romance
+3476,FC Lugano,Romance
+3477,AC Bellinzona,Romance
+3478,AC Bellinzona,Romance
+3479,AC Bellinzona,Romance
+3480,FC Sion,Romance
+3481,FC Sion,Romance
+3482,FC Sion,Romance
+3483,FC Sion,Romance
+3484,FC Sion,Romance
+3485,FC Sion,Romance
+3486,FC Sion,Romance
+3487,FC Sion,Romance
+3488,FC Sion,Romance
+3489,FC Sion,Romance
+3490,FC Sion,Romance
+3491,FC Sion,Romance
+3492,Xamax,Romance
+3493,Servette FC,Romance
+3494,Servette FC,Romance
+3495,Servette FC,Romance
+3496,Servette FC,Romance
+3497,Servette FC,Romance
+3498,FC Lausanne-Sport,Romance
+3499,FC Lausanne-Sport,Romance
+3500,FC Lausanne-Sport,Romance
+3501,FC Lausanne-Sport,Romance
+3502,FC Lausanne-Sport,Romance
+3503,FC Lausanne-Sport,Romance
+3504,FC Zürich,Germanic
+3505,FC Vaduz,Germanic
+3506,FC Basel,Germanic
+3507,BSC Young Boys,Germanic
+3508,FC Basel,Germanic
+3509,FC Basel,Germanic
+3510,FC Basel,Germanic
+3511,FC Luzern,Germanic
+3512,FC Basel,Germanic
+3513,FC Basel,Germanic
+3514,FC Basel,Germanic
+3515,FC Aarau,Germanic
+3516,FC Luzern,Germanic
+3517,FC Luzern,Germanic
+3518,FC Zürich,Germanic
+3519,FC Zürich,Germanic
+3520,Grasshopper Club Zürich,Germanic
+3521,FC Zürich,Germanic
+3522,BSC Young Boys,Germanic
+3523,FC Vaduz,Germanic
+3524,Grasshopper Club Zürich,Germanic
+3525,FC Lugano,Romance
+3526,Servette FC,Romance
+3527,Grasshopper Club Zürich,Germanic
+3528,AC Bellinzona,Romance
+3529,AC Bellinzona,Romance
+3530,FC Sion,Romance
+3531,FC Sion,Romance
+3532,FC Sion,Romance
+3533,FC Sion,Romance
+3534,FC Sion,Romance
+3535,FC Lausanne-Sport,Romance
+3536,Grasshopper Club Zürich,Germanic
+3537,Grasshopper Club Zürich,Germanic
+3538,FC Basel,Germanic
+3539,FC Zürich,Germanic
+3540,BSC Young Boys,Germanic
+3541,FC Basel,Germanic
+3542,FC Basel,Germanic
+3543,Grasshopper Club Zürich,Germanic
+3544,FC Basel,Germanic
+3545,FC Luzern,Germanic
+3546,FC Luzern,Germanic
+3547,FC St. Gallen,Germanic
+3548,FC Zürich,Germanic
+3549,FC Luzern,Germanic
+3550,FC Luzern,Germanic
+3551,FC St. Gallen,Germanic
+3552,FC St. Gallen,Germanic
+3553,FC St. Gallen,Germanic
+3554,FC Vaduz,Germanic
+3555,Grasshopper Club Zürich,Germanic
+3556,Grasshopper Club Zürich,Germanic
+3557,Grasshopper Club Zürich,Germanic
+3558,FC Lugano,Romance
+3559,FC Lugano,Romance
+3560,FC Lugano,Romance
+3561,FC Lugano,Romance
+3562,FC Lugano,Romance
+3563,FC Lugano,Romance
+3564,FC Lugano,Romance
+3565,FC Lugano,Romance
+3566,FC Lugano,Romance
+3567,FC Lugano,Romance
+3568,FC Lugano,Romance
+3569,FC Lugano,Romance
+3570,FC Lugano,Romance
+3571,FC Lugano,Romance
+3572,FC Lugano,Romance
+3573,AC Bellinzona,Romance
+3574,AC Bellinzona,Romance
+3575,AC Bellinzona,Romance
+3576,AC Bellinzona,Romance
+3577,AC Bellinzona,Romance
+3578,AC Bellinzona,Romance
+3579,AC Bellinzona,Romance
+3580,AC Bellinzona,Romance
+3581,AC Bellinzona,Romance
+3582,AC Bellinzona,Romance
+3583,AC Bellinzona,Romance
+3584,AC Bellinzona,Romance
+3585,AC Bellinzona,Romance
+3586,AC Bellinzona,Romance
+3587,AC Bellinzona,Romance
+3588,AC Bellinzona,Romance
+3589,FC Sion,Romance
+3590,FC Sion,Romance
+3591,FC Sion,Romance
+3592,FC Sion,Romance
+3593,FC Sion,Romance
+3594,FC Sion,Romance
+3595,FC Sion,Romance
+3596,FC Sion,Romance
+3597,FC Sion,Romance
+3598,FC Sion,Romance
+3599,FC Sion,Romance
+3600,FC Sion,Romance
+3601,FC Sion,Romance
+3602,FC Sion,Romance
+3603,FC Sion,Romance
+3604,FC Sion,Romance
+3605,FC Sion,Romance
+3606,FC Sion,Romance
+3607,FC Sion,Romance
+3608,FC Sion,Romance
+3609,Xamax,Romance
+3610,Xamax,Romance
+3611,Xamax,Romance
+3612,Xamax,Romance
+3613,Xamax,Romance
+3614,Xamax,Romance
+3615,Xamax,Romance
+3616,Xamax,Romance
+3617,Xamax,Romance
+3618,Xamax,Romance
+3619,Xamax,Romance
+3620,Xamax,Romance
+3621,Servette FC,Romance
+3622,Servette FC,Romance
+3623,Servette FC,Romance
+3624,Servette FC,Romance
+3625,Servette FC,Romance
+3626,Servette FC,Romance
+3627,Servette FC,Romance
+3628,Servette FC,Romance
+3629,Servette FC,Romance
+3630,Servette FC,Romance
+3631,Servette FC,Romance
+3632,Servette FC,Romance
+3633,Servette FC,Romance
+3634,FC Lausanne-Sport,Romance
+3635,FC Lausanne-Sport,Romance
+3636,FC Lausanne-Sport,Romance
+3637,FC Lausanne-Sport,Romance
+3638,FC Lausanne-Sport,Romance
+3639,FC Lausanne-Sport,Romance
+3640,FC Lausanne-Sport,Romance
+3641,FC Lausanne-Sport,Romance
+3642,FC Lausanne-Sport,Romance
+3643,FC Lausanne-Sport,Romance
+3644,FC Lausanne-Sport,Romance
+3645,FC Lausanne-Sport,Romance
+3646,FC Lausanne-Sport,Romance
+3647,FC Lausanne-Sport,Romance
+3648,FC Lausanne-Sport,Romance
+3649,FC Basel,Germanic
+3650,FC Basel,Germanic
+3651,FC Basel,Germanic
+3652,FC Basel,Germanic
+3653,FC Basel,Germanic
+3654,FC Basel,Germanic
+3655,FC Basel,Germanic
+3656,FC Basel,Germanic
+3657,FC Basel,Germanic
+3658,FC Basel,Germanic
+3659,FC Aarau,Germanic
+3660,FC Aarau,Germanic
+3661,FC Aarau,Germanic
+3662,FC Aarau,Germanic
+3663,FC Aarau,Germanic
+3664,FC Aarau,Germanic
+3665,FC Aarau,Germanic
+3666,FC Aarau,Germanic
+3667,FC Aarau,Germanic
+3668,FC Aarau,Germanic
+3669,FC Aarau,Germanic
+3670,FC Aarau,Germanic
+3671,FC Luzern,Germanic
+3672,FC Luzern,Germanic
+3673,FC Luzern,Germanic
+3674,FC Luzern,Germanic
+3675,FC Luzern,Germanic
+3676,FC Luzern,Germanic
+3677,FC Luzern,Germanic
+3678,FC Luzern,Germanic
+3679,FC Luzern,Germanic
+3680,FC Luzern,Germanic
+3681,FC Luzern,Germanic
+3682,FC Thun,Germanic
+3683,FC Thun,Germanic
+3684,FC Thun,Germanic
+3685,FC Thun,Germanic
+3686,FC Thun,Germanic
+3687,FC Thun,Germanic
+3688,FC Thun,Germanic
+3689,FC Thun,Germanic
+3690,FC St. Gallen,Germanic
+3691,FC St. Gallen,Germanic
+3692,FC St. Gallen,Germanic
+3693,FC St. Gallen,Germanic
+3694,FC St. Gallen,Germanic
+3695,FC St. Gallen,Germanic
+3696,FC St. Gallen,Germanic
+3697,FC St. Gallen,Germanic
+3698,FC St. Gallen,Germanic
+3699,FC Zürich,Germanic
+3700,FC Zürich,Germanic
+3701,FC Zürich,Germanic
+3702,FC Zürich,Germanic
+3703,FC Zürich,Germanic
+3704,FC Zürich,Germanic
+3705,FC Zürich,Germanic
+3706,BSC Young Boys,Germanic
+3707,BSC Young Boys,Germanic
+3708,FC Vaduz,Germanic
+3709,FC Vaduz,Germanic
+3710,FC Vaduz,Germanic
+3711,FC Vaduz,Germanic
+3712,FC Vaduz,Germanic
+3713,FC Vaduz,Germanic
+3714,FC Vaduz,Germanic
+3715,FC Vaduz,Germanic
+3716,FC Vaduz,Germanic
+3717,Grasshopper Club Zürich,Germanic
+3718,Grasshopper Club Zürich,Germanic
+3719,Grasshopper Club Zürich,Germanic
+3720,Grasshopper Club Zürich,Germanic
+3721,Grasshopper Club Zürich,Germanic
+3722,Grasshopper Club Zürich,Germanic
+3723,Grasshopper Club Zürich,Germanic
+3724,Grasshopper Club Zürich,Germanic
+3725,Grasshopper Club Zürich,Germanic
+3726,Grasshopper Club Zürich,Germanic
+3727,Grasshopper Club Zürich,Germanic
+3728,Grasshopper Club Zürich,Germanic
+3729,Grasshopper Club Zürich,Germanic
+3730,Grasshopper Club Zürich,Germanic
+3731,Grasshopper Club Zürich,Germanic
+3732,FC Lugano,Romance
+3733,FC Lugano,Romance
+3734,FC Lugano,Romance
+3735,FC Lugano,Romance
+3736,FC Lugano,Romance
+3737,AC Bellinzona,Romance
+3738,AC Bellinzona,Romance
+3739,AC Bellinzona,Romance
+3740,AC Bellinzona,Romance
+3741,AC Bellinzona,Romance
+3742,AC Bellinzona,Romance
+3743,AC Bellinzona,Romance
+3744,AC Bellinzona,Romance
+3745,FC Sion,Romance
+3746,FC Sion,Romance
+3747,FC Sion,Romance
+3748,FC Sion,Romance
+3749,FC Sion,Romance
+3750,Xamax,Romance
+3751,Xamax,Romance
+3752,Xamax,Romance
+3753,Servette FC,Romance
+3754,Servette FC,Romance
+3755,Servette FC,Romance
+3756,Servette FC,Romance
+3757,FC Lausanne-Sport,Romance
+3758,FC Lausanne-Sport,Romance
+3759,FC Lausanne-Sport,Romance
+3760,FC Lausanne-Sport,Romance
+3761,FC Lausanne-Sport,Romance
+3762,FC Lausanne-Sport,Romance
+3763,FC Basel,Germanic
+3764,FC Basel,Germanic
+3765,FC Basel,Germanic
+3766,FC Basel,Germanic
+3767,FC Basel,Germanic
+3768,FC Basel,Germanic
+3769,FC Basel,Germanic
+3770,FC Basel,Germanic
+3771,FC Basel,Germanic
+3772,FC Aarau,Germanic
+3773,FC Aarau,Germanic
+3774,FC Aarau,Germanic
+3775,FC Aarau,Germanic
+3776,FC Aarau,Germanic
+3777,FC Aarau,Germanic
+3778,FC Aarau,Germanic
+3779,FC Aarau,Germanic
+3780,FC Luzern,Germanic
+3781,FC Luzern,Germanic
+3782,FC Luzern,Germanic
+3783,FC Luzern,Germanic
+3784,FC Thun,Germanic
+3785,FC Thun,Germanic
+3786,FC Thun,Germanic
+3787,FC Thun,Germanic
+3788,FC Thun,Germanic
+3789,FC Thun,Germanic
+3790,FC Thun,Germanic
+3791,FC Thun,Germanic
+3792,FC St. Gallen,Germanic
+3793,FC St. Gallen,Germanic
+3794,FC St. Gallen,Germanic
+3795,FC St. Gallen,Germanic
+3796,FC St. Gallen,Germanic
+3797,FC St. Gallen,Germanic
+3798,FC St. Gallen,Germanic
+3799,FC St. Gallen,Germanic
+3800,FC St. Gallen,Germanic
+3801,FC Zürich,Germanic
+3802,FC Zürich,Germanic
+3803,FC Zürich,Germanic
+3804,FC Zürich,Germanic
+3805,FC Zürich,Germanic
+3806,FC Zürich,Germanic
+3807,FC Zürich,Germanic
+3808,BSC Young Boys,Germanic
+3809,BSC Young Boys,Germanic
+3810,BSC Young Boys,Germanic
+3811,BSC Young Boys,Germanic
+3812,BSC Young Boys,Germanic
+3813,FC Vaduz,Germanic
+3814,FC Vaduz,Germanic
+3815,FC Vaduz,Germanic
+3816,FC Vaduz,Germanic
+3817,FC Vaduz,Germanic
+3818,FC Vaduz,Germanic
+3819,Grasshopper Club Zürich,Germanic
+3820,Grasshopper Club Zürich,Germanic
+3821,Grasshopper Club Zürich,Germanic
+3822,Grasshopper Club Zürich,Germanic
+3823,Grasshopper Club Zürich,Germanic
+3824,Grasshopper Club Zürich,Germanic
+3825,Grasshopper Club Zürich,Germanic
+3826,Grasshopper Club Zürich,Germanic
+3827,FC Lugano,Romance
+3828,FC Lugano,Romance
+3829,FC Sion,Romance
+3830,FC Sion,Romance
+3831,FC Sion,Romance
+3832,FC Lausanne-Sport,Romance
+3833,FC Thun,Germanic
+3834,FC St. Gallen,Germanic
+3835,Grasshopper Club Zürich,Germanic
+3836,Grasshopper Club Zürich,Germanic
+3837,FC Lugano,Romance
+3838,FC Lugano,Romance
+3839,FC Lugano,Romance
+3840,FC Lugano,Romance
+3841,FC Basel,Germanic
+3842,FC Lugano,Romance
+3843,Xamax,Romance
+3844,Servette FC,Romance
+3845,FC Lausanne-Sport,Romance
+3846,FC Luzern,Germanic
+3847,FC Lugano,Romance
+3848,FC Sion,Romance
+3849,Servette FC,Romance
+3850,FC Lausanne-Sport,Romance
+3851,FC Basel,Germanic
+3852,FC Basel,Germanic
+3853,FC Luzern,Germanic
+3854,FC Zürich,Germanic
+3855,FC Luzern,Germanic
+3856,FC Luzern,Germanic
+3857,FC St. Gallen,Germanic
+3858,FC St. Gallen,Germanic
+3859,FC Lugano,Romance
+3860,FC Zürich,Germanic
+3861,FC Zürich,Germanic
+3862,BSC Young Boys,Germanic
+3863,Grasshopper Club Zürich,Germanic
+3864,FC Lugano,Romance
+3865,FC Sion,Romance
+3866,Xamax,Romance
+3867,FC Aarau,Germanic
+3868,FC Aarau,Germanic
+3869,FC Thun,Germanic
+3870,FC Zürich,Germanic
+3871,FC St. Gallen,Germanic
+3872,BSC Young Boys,Germanic
+3873,Grasshopper Club Zürich,Germanic
+3874,Grasshopper Club Zürich,Germanic
+3875,AC Bellinzona,Romance
+3876,FC Lugano,Romance
+3877,FC Lugano,Romance
+3878,FC Lugano,Romance
+3879,FC Lugano,Romance
+3880,FC Lugano,Romance
+3881,FC Lugano,Romance
+3882,FC Sion,Romance
+3883,FC Zürich,Germanic
+3884,Grasshopper Club Zürich,Germanic
+3885,Grasshopper Club Zürich,Germanic
+3886,FC Lugano,Romance
+3887,FC Lugano,Romance
+3888,FC Sion,Romance
+3889,FC Sion,Romance
+3890,FC Sion,Romance
+3891,Servette FC,Romance
+3892,Xamax,Romance
+3893,Servette FC,Romance
+3894,FC Lausanne-Sport,Romance
+3895,FC Basel,Germanic
+3896,FC Zürich,Germanic
+3897,Grasshopper Club Zürich,Germanic
+3898,FC Basel,Germanic
+3899,FC Aarau,Germanic
+3900,FC Luzern,Germanic
+3901,FC Thun,Germanic
+3902,FC Thun,Germanic
+3903,FC Thun,Germanic
+3904,Grasshopper Club Zürich,Germanic
+3905,Grasshopper Club Zürich,Germanic
+3906,Grasshopper Club Zürich,Germanic
+3907,Grasshopper Club Zürich,Germanic
+3908,FC Lugano,Romance
+3909,FC Lugano,Romance
+3910,FC Basel,Germanic
+3911,FC Vaduz,Germanic
+3912,FC Lugano,Romance
+3913,FC Lugano,Romance
+3914,AC Bellinzona,Romance
+3915,AC Bellinzona,Romance
+3916,AC Bellinzona,Romance
+3917,AC Bellinzona,Romance
+3918,AC Bellinzona,Romance
+3919,AC Bellinzona,Romance
+3920,AC Bellinzona,Romance
+3921,FC Sion,Romance
+3922,Xamax,Romance
+3923,Xamax,Romance
+3924,Servette FC,Romance
+3925,FC Lausanne-Sport,Romance
+3926,FC Vaduz,Germanic
+3927,FC Lugano,Romance
+3928,FC Lugano,Romance
+3929,AC Bellinzona,Romance
+3930,FC Sion,Romance
+3931,Xamax,Romance
+3932,Servette FC,Romance
+3933,FC Aarau,Germanic
+3934,FC Aarau,Germanic
+3935,FC Aarau,Germanic
+3936,FC Luzern,Germanic
+3937,FC Thun,Germanic
+3938,FC St. Gallen,Germanic
+3939,FC Zürich,Germanic
+3940,FC Vaduz,Germanic
+3941,FC Vaduz,Germanic
+3942,FC Lugano,Romance
+3943,FC Lugano,Romance
+3944,FC Lugano,Romance
+3945,FC Lugano,Romance
+3946,FC Lausanne-Sport,Romance
+3947,Servette FC,Romance
+3948,Servette FC,Romance
+3949,FC Lausanne-Sport,Romance
+3950,FC Lausanne-Sport,Romance
+3951,FC Luzern,Germanic
+3952,FC Luzern,Germanic
+3953,FC Thun,Germanic
+3954,FC Thun,Germanic
+3955,FC St. Gallen,Germanic
+3956,FC Zürich,Germanic
+3957,Grasshopper Club Zürich,Germanic
+3958,Grasshopper Club Zürich,Germanic
+3959,FC Lugano,Romance
+3960,FC Lugano,Romance
+3961,FC Lugano,Romance
+3962,Xamax,Romance
+3963,AC Bellinzona,Romance
+3964,Servette FC,Romance
+3965,AC Bellinzona,Romance
+3966,AC Bellinzona,Romance
+3967,AC Bellinzona,Romance
+3968,FC St. Gallen,Germanic
+3969,FC Zürich,Germanic
+3970,FC Sion,Romance
+3971,FC Lausanne-Sport,Romance
+3972,FC Basel,Germanic
+3973,FC Zürich,Germanic
+3974,BSC Young Boys,Germanic
+3975,FC Vaduz,Germanic
+3976,Xamax,Romance
+3977,FC Basel,Germanic
+3978,BSC Young Boys,Germanic
+3979,Grasshopper Club Zürich,Germanic
+3980,Grasshopper Club Zürich,Germanic
+3981,Grasshopper Club Zürich,Germanic
+3982,FC Sion,Romance
+3983,FC Sion,Romance
+3984,FC Basel,Germanic
+3985,Grasshopper Club Zürich,Germanic
+3986,FC Sion,Romance
+3987,FC Basel,Germanic
+3988,FC Basel,Germanic
+3989,Grasshopper Club Zürich,Germanic
+3990,FC Sion,Romance
+3991,FC Sion,Romance
+3992,FC Basel,Germanic
+3993,FC Basel,Germanic
+3994,FC Zürich,Germanic
+3995,Xamax,Romance
+3996,Servette FC,Romance
+3997,FC Vaduz,Germanic
+3998,Grasshopper Club Zürich,Germanic
+3999,Grasshopper Club Zürich,Germanic
+4000,Grasshopper Club Zürich,Germanic
+4001,FC Sion,Romance
+4002,FC Sion,Romance
+4003,Grasshopper Club Zürich,Germanic
+4004,Grasshopper Club Zürich,Germanic
+4005,FC Sion,Romance
+4006,FC Sion,Romance
+4007,FC Lausanne-Sport,Romance
+4008,FC Lausanne-Sport,Romance
+4009,FC Basel,Germanic
+4010,FC Basel,Germanic
+4011,FC Basel,Germanic
+4012,FC Luzern,Germanic
+4013,Grasshopper Club Zürich,Germanic
+4014,FC St. Gallen,Germanic
+4015,FC Zürich,Germanic
+4016,BSC Young Boys,Germanic
+4017,BSC Young Boys,Germanic
+4018,FC Lausanne-Sport,Romance
+4019,FC Zürich,Germanic
+4020,FC Lausanne-Sport,Romance
+4021,FC Aarau,Germanic
+4022,FC St. Gallen,Germanic
+4023,FC Zürich,Germanic
+4024,FC Vaduz,Germanic
+4025,Grasshopper Club Zürich,Germanic
+4026,FC Thun,Germanic
+4027,Grasshopper Club Zürich,Germanic
